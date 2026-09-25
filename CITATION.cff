@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this curriculum, cite this release and its contributors."
+title: "Open AI Governance & Security Curriculum"
+authors:
+  - name: "Open AI Governance & Security Curriculum contributors"
+version: 0.1.0
+date-released: 2026-09-25
+license: CC-BY-4.0
+abstract: "Four adaptable university courses with governance, evaluation, security and policy teaching artifacts."

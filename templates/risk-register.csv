@@ -1,0 +1,2 @@
+risk_id,system_id,cause,event,affected_party,consequence,inherent_likelihood_1_5,inherent_impact_1_5,assumptions,control_and_test,residual_likelihood_1_5,residual_impact_1_5,treatment,owner,due_date,review_date,evidence_id
+EXAMPLE_REMOVE,CampusAssist,Outdated contact,Student misses invitation,Student,Delayed support,3,3,Synthetic teaching example,Correction workflow and sampled review,2,3,Reduce,Student Success,YYYY-MM-DD,YYYY-MM-DD,E-06

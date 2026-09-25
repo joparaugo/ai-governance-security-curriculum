@@ -1,0 +1,63 @@
+id,title,publisher,url,kind,edition_status,access,teaching_note
+RMF,AI Risk Management Framework 1.0,NIST,https://airc.nist.gov/airmf-resources/airmf/,voluntary framework,current; revision in progress,free,"Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist"
+PLAY,AI RMF Playbook,NIST,https://airc.nist.gov/airmf-resources/playbook/,practice guide,living,free,Suggested actions; choose based on context
+GAI,"AI RMF Generative AI Profile, AI 600-1",NIST,https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-resources,profile,2024,free,GenAI-specific risks and actions
+CSF,Cybersecurity Framework 2.0,NIST,https://www.nist.gov/cyberframework,voluntary framework,2.0,free,"Govern plus Identify, Protect, Detect, Respond, Recover"
+SP53,"SP 800-53 Rev. 5, Security and Privacy Controls",NIST,https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final,control catalog,Rev. 5; Release 5.2.0 issued 2025; check live dataset,free,Tailor controls; no automatic AI compliance claim
+SSDF,"SP 800-218, Secure Software Development Framework",NIST,https://csrc.nist.gov/pubs/sp/800/218/final,practice framework,final,free,Secure development activities
+SSDF_AI,"SP 800-218A, Secure Development Practices for Generative AI and Dual-Use Foundation Models",NIST,https://csrc.nist.gov/pubs/sp/800/218/a/final,community profile,final,free,AI-specific SSDF profile
+PRIV,Privacy Framework 1.0,NIST,https://www.nist.gov/privacy-framework,voluntary framework,1.0 current; 1.1 initial public draft,free,Do not label 1.1 final until NIST does
+AML,"AI 100-2e2025, Adversarial ML Taxonomy",NIST,https://csrc.nist.gov/pubs/ai/100/2/e2025/final,taxonomy,2025,free,"Attacker goals, knowledge, life-cycle stages"
+EVAL_DRAFT,"AI 800-2, Towards Best Practices for Automated Benchmark Evaluations",NIST,https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations,research guidance,"initial public draft, 2026",free,Explicitly label as draft in class
+EVAL_STATS,"AI 800-3, Expanding the AI Evaluation Toolbox with Statistical Models",NIST,https://www.nist.gov/publications/expanding-ai-evaluation-toolbox-statistical-models,research report,2026,free,Measurement assumptions and uncertainty
+MONITOR,"AI 800-4, Challenges to the Monitoring of Deployed AI Systems",NIST,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf,research report,2026,free,Postdeployment monitoring limitations
+ARIA,Assessing Risks and Impacts of AI (ARIA),NIST,https://ai-challenges.nist.gov/aria,evaluation program,living,free,"Model, red-team and field levels"
+IR,"SP 800-61 Rev. 3, Incident Response Recommendations",NIST,https://csrc.nist.gov/pubs/sp/800/61/r3/final,guidance,2025 final,free,Incident response integrated with CSF 2.0
+ISO42001,"ISO/IEC 42001:2023, AI management system",ISO/IEC,https://www.iso.org/standard/81230.html,requirements standard,2023,paid full text; public overview,Teach original AIMS processes; do not reproduce clauses
+ISO23894,"ISO/IEC 23894:2023, AI risk management",ISO/IEC,https://www.iso.org/standard/77304.html,guidance standard,2023,paid full text; public overview,AI risks through lifecycle
+ISO42005,"ISO/IEC 42005:2025, AI system impact assessment",ISO/IEC,https://www.iso.org/standard/42005,guidance standard,2025,paid full text; public overview,People and societal impacts
+ISO42006,"ISO/IEC 42006:2025, AIMS certification bodies",ISO/IEC,https://www.iso.org/standard/42006,conformity standard,2025,paid full text; public overview,Distinguish certification body requirements from organizational requirements
+ISO38507,"ISO/IEC 38507:2022, Governance implications of AI",ISO/IEC,https://www.iso.org/standard/56641.html,governance guidance,2022,paid full text; public overview,Governing body oversight
+ISO5338,"ISO/IEC 5338:2023, AI system life cycle processes",ISO/IEC,https://www.iso.org/standard/81118.html,process standard,2023,paid full text; public overview,Lifecycle artifacts and transitions
+ISO22989,"ISO/IEC 22989:2022, AI concepts and terminology",ISO/IEC,https://www.iso.org/standard/74296.html,terminology standard,2022,free per ISO catalog; check availability,Common vocabulary
+ISO23053,"ISO/IEC 23053:2022, ML AI system framework",ISO/IEC,https://www.iso.org/standard/74438.html,architecture standard,2022,paid full text; public overview,System component boundaries
+ISO5259,"ISO/IEC 5259-1:2024, Data quality for analytics and ML",ISO/IEC,https://www.iso.org/standard/81088.html,data quality standard,2024; multi-part series,paid full text; public overview,Data quality scope and measures
+ISO25059,"ISO/IEC 25059:2023, Quality model for AI systems",ISO/IEC,https://www.iso.org/standard/80655.html,quality standard,2023,paid full text; public overview,Specify quality requirements
+ISO27001,"ISO/IEC 27001:2022, Information security management",ISO/IEC,https://www.iso.org/standard/27001,requirements standard,2022,paid full text; public overview,ISMS assurance
+ISO27002,"ISO/IEC 27002:2022, Information security controls",ISO/IEC,https://www.iso.org/standard/75652.html,control guidance,2022,paid full text; public overview,Security control selection
+ISO27005,"ISO/IEC 27005:2022, Information security risk",ISO/IEC,https://www.iso.org/standard/80585.html,risk guidance,2022,paid full text; public overview,Cyber risk methods
+ISO27701,"ISO/IEC 27701:2025, Privacy information management",ISO/IEC,https://www.iso.org/standard/27701,requirements and guidance,2025,paid full text; public overview,PIMS; 2019 edition replaced
+ISO31000,"ISO 31000:2018, Risk management",ISO,https://www.iso.org/standard/65694.html,guidance standard,2018; draft revision watch,paid full text; public overview,Risk process independent of domain
+ISO19011,"ISO 19011:2026, Auditing management systems",ISO,https://www.iso.org/standard/19011,audit guidance,2026,paid full text; public overview,Audit evidence and independence
+OWASP_LLM,Top 10 for LLM Applications 2026,OWASP,https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/,community risk guide,2026,free,"Awareness taxonomy, not a certification"
+OWASP_AGENT,Top 10 for Agentic Applications 2026,OWASP,https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/,community risk guide,2026,free,"Tool permissions, memory and agency"
+AISVS,Artificial Intelligence Security Verification Standard 1.0,OWASP,https://owasp.org/projects/artificial-intelligence-security-verification-standard-aisvs-docs,testable requirements,1.0 stable,free,Select verifiable requirements by assurance level
+ASVS,Application Security Verification Standard,OWASP,https://owasp.org/www-project-application-security-verification-standard/,testable requirements,check latest release,free,Conventional application controls
+ATLAS,Adversarial Threat Landscape for AI Systems,MITRE,https://atlas.mitre.org/,threat knowledge base,living,free,"Map attack paths, not compliance"
+AICM,AI Controls Matrix v1.1,Cloud Security Alliance,https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1,control framework,v1.1 June 2026,free registration may apply,Cloud AI control evidence
+CISA_AI,Guidelines for Secure AI System Development,CISA / UK NCSC,https://www.cisa.gov/ai,development guidance,living,free,"Secure design, development, deployment, operation"
+OECD,OECD AI Principles,OECD,https://oecd.ai/en/ai-principles,intergovernmental principles,updated 2024,free,Public policy and accountability
+UNESCO,Recommendation on the Ethics of Artificial Intelligence,UNESCO,https://www.unesco.org/en/artificial-intelligence/recommendation-ethics,intergovernmental recommendation,2021,free,Human rights and inclusion
+COE,Framework Convention on AI and Human Rights,Council of Europe,https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence,treaty,2024; ratification varies,free,Verify ratification by jurisdiction
+IMDA,Model AI Governance Framework for Generative AI,IMDA / AI Verify Foundation,https://www.imda.gov.sg/AI,voluntary guidance,2024; new agentic work watch,free,Asia-Pacific comparison
+EU_ACT,"Regulation (EU) 2024/1689, AI Act",EU,https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng,law,amended in 2026,free,Read with 2026/1744 and Commission timeline
+EU_AMEND,"Regulation (EU) 2026/1744, AI Omnibus",EU,https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng,law amendment,2026,free,Changes high-risk implementation dates
+EU_TIMELINE,AI Act application timeline,European Commission,https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai,official guidance,checked 2026-09-25,free,Recheck before every teaching term
+GDPR,"Regulation (EU) 2016/679, GDPR",EU,https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng,law,check consolidated text,free,Personal data duties differ from AI Act
+DPIA,Data Protection Impact Assessment guidance,EDPB,https://www.edpb.europa.eu/topics/accountability-and-compliance-tools/data-protection-impact-assessment_en,regulator guidance,living,free,Privacy-specific impact assessment
+ICO,AI and data protection risk toolkit,UK ICO,https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/,regulator tool,living,free,Practical worksheet; UK law context
+FERPA,Family Educational Rights and Privacy Act resources,US Department of Education,https://studentprivacy.ed.gov/topic/family-educational-rights-privacy-act-ferpa,sector law resources,living,free,Check applicability to scenario institution
+ISO5259_2,"ISO/IEC 5259-2:2024, Data quality model and measures",ISO/IEC,https://www.iso.org/standard/81860.html,data quality standard,2024,paid full text; public overview,Specify and report dataset quality measures
+ISO5259_3,"ISO/IEC 5259-3:2024, Data quality management",ISO/IEC,https://www.iso.org/standard/81092.html,data quality standard,2024,paid full text; public overview,Manage quality of data used for ML
+ISO5259_4,"ISO/IEC 5259-4:2024, Data quality process framework",ISO/IEC,https://www.iso.org/standard/81093.html,data quality standard,2024,paid full text; public overview,Lifecycle and labeling processes
+ISO5259_5,"ISO/IEC 5259-5:2025, Data quality governance",ISO/IEC,https://www.iso.org/standard/84150.html,data quality governance,2025,paid full text; public overview,Governing-body accountability for data quality
+ISO24027,"ISO/IEC TR 24027:2021, Bias in AI",ISO/IEC,https://www.iso.org/standard/77607.html,technical report,2021,paid full text; public overview,"Bias sources across data, model and use"
+ISO12791,"ISO/IEC TS 12791:2024, Treatment of unwanted bias",ISO/IEC,https://www.iso.org/standard/84110.html,technical specification,2024,paid full text; public overview,Classification and regression bias treatments
+ISO24028,"ISO/IEC TR 24028:2020, Trustworthiness overview",ISO/IEC,https://www.iso.org/standard/77608.html,technical report,2020,paid full text; public overview,Trustworthiness factors and limits
+ISO24029,"ISO/IEC TR 24029-1:2021, Neural-network robustness overview",ISO/IEC,https://www.iso.org/standard/77609.html,technical report,2021,paid full text; public overview,Robustness assessment
+ISO24029_2,"ISO/IEC 24029-2:2023, Formal robustness methods",ISO/IEC,https://www.iso.org/standard/79804.html,method standard,2023,paid full text; public overview,Formal method scope and assumptions
+ISO29119,"ISO/IEC TR 29119-11:2020, Testing AI-based systems",ISO/IEC,https://www.iso.org/standard/79016.html,testing guidance,2020,paid full text; public overview,Test oracle and AI testing challenges
+ISO42119,"ISO/IEC TS 42119-2:2025, Testing AI systems",ISO/IEC,https://www.iso.org/standard/84127.html,technical specification,2025,paid full text; public overview,Risk-based AI testing process
+IEEE7000,"IEEE 7000-2021, Ethical concerns during system design",IEEE SA,https://standards.ieee.org/ieee/7000/6781/,process standard,2021,check IEEE GET/institutional access,Values elicitation and traceability
+IEEE7001,"IEEE 7001-2021, Transparency of autonomous systems",IEEE SA,https://standards.ieee.org/ieee/7001/6929/,transparency standard,2021,check institutional access,Measurable transparency for stakeholders
+IEEE7003,"IEEE 7003-2024, Algorithmic bias considerations",IEEE SA,https://standards.ieee.org/ieee/7003/11357/,bias standard,2024,check institutional access,Bias quality control and use boundaries

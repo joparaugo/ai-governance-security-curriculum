@@ -1,0 +1,2 @@
+system_id,owner,purpose,intended_users,affected_people,model_or_supplier,model_version,data_categories,personal_data,automation_level,consequence,geographies,stage,review_date,approval_status,evidence_link
+EXAMPLE_REMOVE,Student Success,Invite to optional advising,Assigned advisors,Students,Fictional supplier,Unknown,Enrollment aggregate,Yes,Decision support,Potential missed support,US,Proposal,YYYY-MM-DD,Pending,case/E-01
