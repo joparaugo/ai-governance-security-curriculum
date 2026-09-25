@@ -1,4 +1,4 @@
-# Open AI Governance & Security Curriculum
+# AI Governance & Security Curriculum
 
 **Four independent, adaptable university courses | 12 weeks each | governance + evaluation + security + management and policy | version 0.2.0 (2026-09-25)**
 
