@@ -37,6 +37,13 @@ Risk of erroneous outreach spans risk, privacy, human oversight and security tea
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Translate a cloud security objective into a CSA control area, a COSO objective-risk-control chain and a NIST-style assessment procedure. Mark each connection as teaching interpretation; demand observed evidence.
+- **Deliver:** Crosswalk row with criterion, evidence and test.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Crosswalk one scenario to four families with a gap note.
@@ -51,6 +58,6 @@ Crosswalk one scenario to four families with a gap note.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** RMF, ISO42001, CSF, SP53
+**Reading anchors:** CSA_CCM, COSO_IC, NIST_53A, RMF, ISO42001, CSF, SP53
 
 <!-- Speaker: Collect a 100-word individual defense. -->

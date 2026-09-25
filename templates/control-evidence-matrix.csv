@@ -1,0 +1,4 @@
+source_id,control_objective,system_boundary,provider_or_customer_owner,claim,evidence_id,assessment_method,exception,residual_risk,action_owner,review_date
+CSA_CCM,restrict cloud access,hosting/customer interface,split by contract,restricted to assigned advisors,E-03,inspect IAM settings and sample access logs,log sample missing,unauthorized disclosure,security lead,to be set
+CSA_AI_CAIQ,notify model changes,model supplier,vendor with campus approval,changes are logged,E-02,request version log notice and regression evidence,unilateral updates allowed,untested behavior after change,program owner,to be set
+MITRE_ATTACK,investigate suspicious identity access,cloud IAM,campus security,service token alert,E-12,correlate token sign-in and outbound attempt logs,root cause unknown,possible tool misuse,incident lead,to be set

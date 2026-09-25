@@ -11,6 +11,8 @@
 - [IMDA: Model AI Governance Framework for Generative AI](https://www.imda.gov.sg/AI) — Asia-Pacific comparison
 - [COE: Framework Convention on AI and Human Rights](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence) — Verify ratification by jurisdiction
 
+- [IMDA_AGENT: Model AI Governance Framework for Agentic AI](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2026/updated-model-ai-governance-framework-for-agentic-ai) — Clarify agent objectives, authorization, human oversight and accountability in a regional policy comparison.
+
 ## Teach the concepts
 
 ### 1. Concept, decision and evidence
@@ -24,6 +26,12 @@ Compare market regulation, procurement, standards and international coordination
 ### 3. Operational test and owner
 
 Design an evaluation plan for policy effects and distributional consequences. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Additional official source exercise
+
+Compare a Singapore agentic oversight proposal with OECD principles and the institution’s local decision rights; label each source’s authority and geographic reach.
+
+**Observable evidence:** Comparative policy note on human oversight.
 
 ## Worked case
 
@@ -42,6 +50,8 @@ A state considers requiring impact assessments for educational AI procurement. *
 ## Student studio instructions
 
 Submit **Options memo with evidence gaps and revision triggers**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Additional source check.** Comparative policy note on human oversight. Explain why the source does or does not fit the CampusAssist system and cite its official page.
 
 ## 75-minute supervised extension
 

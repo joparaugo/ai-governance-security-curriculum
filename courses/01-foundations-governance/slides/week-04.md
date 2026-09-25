@@ -37,6 +37,13 @@ Procurement and student services disagree over who owns a third-party model upda
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Map the first line (service and data owners), second line (risk, privacy and security oversight), independent internal audit and board for the unilateral vendor update. Separate oversight from operational approval and specify a direct route for independent escalation.
+- **Deliver:** Revised RACI with independent challenge and an escalation trigger.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Draft RACI for six AI lifecycle decisions; test one escalation.
@@ -51,6 +58,6 @@ Draft RACI for six AI lifecycle decisions; test one escalation.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO38507, ISO42001, RMF
+**Reading anchors:** IIA_THREE, COSO_BOARD, COBIT, ISO38507, ISO42001, RMF
 
 <!-- Speaker: Collect a 100-word individual defense. -->

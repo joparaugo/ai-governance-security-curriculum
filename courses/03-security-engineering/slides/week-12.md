@@ -37,6 +37,13 @@ CampusAssist will launch to one department next week.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- At the release gate, verify at least one cloud/customer control and one AI-specific control; name their separate owners and evidence. A green cloud posture is insufficient if the tool-action boundary remains open.
+- **Deliver:** Release gate table with two owners and stop condition.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Peer red team challenges another team’s release package.
@@ -51,6 +58,6 @@ Peer red team challenges another team’s release package.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** AISVS, SSDF_AI, AICM
+**Reading anchors:** CSA_CCM, AISVS, SSDF_AI, AICM
 
 <!-- Speaker: Collect a 100-word individual defense. -->

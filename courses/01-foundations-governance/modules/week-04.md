@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain governance roles and oversight, apply it to the CampusAssist case, and defend the evidence in **raci and governance charter v1**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO38507: ISO/IEC 38507:2022, Governance implications of AI](https://www.iso.org/standard/56641.html) — Governing body oversight
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [IIA_THREE: The IIA Three Lines Model](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) — Assign management, risk/compliance, independent assurance and board roles.
+- [COSO_BOARD: Corporate Governance: Guiding Principles for Board Oversight](https://www.coso.org/corporate-governance-guiding-principles) — Define board oversight, reporting and escalation for AI portfolio decisions.
+- [COBIT: COBIT 2019 governance and management](https://www.isaca.org/resources/cobit) — Separate governance objectives from management execution.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Use governing-body oversight for risk appetite, independent challenge and escala
 ### 3. Operational test and owner
 
 Distinguish system owner, model provider, data steward and affected-user representative. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Map the first line (service and data owners), second line (risk, privacy and security oversight), independent internal audit and board for the unilateral vendor update. Separate oversight from operational approval and specify a direct route for independent escalation.
+
+**Observable evidence:** Revised RACI with independent challenge and an escalation trigger.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ Procurement and student services disagree over who owns a third-party model upda
 ## Student studio instructions
 
 Submit **RACI and governance charter v1**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Revised RACI with independent challenge and an escalation trigger. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

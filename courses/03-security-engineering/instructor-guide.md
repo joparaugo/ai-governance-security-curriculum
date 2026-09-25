@@ -25,3 +25,7 @@ Week 3: case scope and thesis; Week 6: evidence baseline; Week 9: peer challenge
 ## Topic sensitivities
 
 Use fictional students, no real institutional records. Legal exercises are issue-spotting, not professional legal advice. For a paywalled ISO standard, teach the publisher overview and free NIST/OWASP equivalents, and label any crosswalk as the instructors' interpretation. See [source status](../../shared/resources.md).
+
+## Added attack and cloud sequence
+
+Week 1 places CSA CCM cloud controls next to AICM AI controls. Week 2 runs the [ATT&CK/ATLAS tabletop](../../labs/lab-06-paired-threat-mapping.md): identity intrusion and prompt manipulation are separate hypotheses and neither label proves a compromise. Week 7 verifies per-call agent tool permission with NIST zero trust and OWASP API guidance. Week 8 audits supplier update paths and asks for SLSA build provenance plus an SPDX AI dependency record. Weeks 10–12 demand real control test evidence and a release stop condition; D3FEND offers candidate defenses, not effectiveness proof.

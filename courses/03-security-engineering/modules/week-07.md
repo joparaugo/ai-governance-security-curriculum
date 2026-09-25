@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain agent and tool privilege, apply it to the CampusAssist case, and defend the evidence in **tool permission matrix and before/after trace**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [OWASP_AGENT: Top 10 for Agentic Applications 2026](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) — Tool permissions, memory and agency
 - [AISVS: Artificial Intelligence Security Verification Standard 1.0](https://owasp.org/projects/artificial-intelligence-security-verification-standard-aisvs-docs) — Select verifiable requirements by assurance level
 - [CSF: Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Govern plus Identify, Protect, Detect, Respond, Recover
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [NIST_ZTA: SP 800-207, Zero Trust Architecture](https://csrc.nist.gov/pubs/sp/800/207/final) — Apply per-request authorization and monitoring at tool and data boundaries.
+- [OWASP_API: OWASP API Security Top 10 2023](https://api-security.owasp.org/editions/2023/en/0x11-t10/) — Test ordinary API authorization and object access at agent tool boundaries.
+- [CSA_AICM_GUIDE: AICM v1.1 Implementation Guidelines for AI Customers](https://cloudsecurityalliance.org/artifacts/aicmv1-1-implementation-guidelines-for-ai-customers-aic) — Allocate customer control ownership and request implementation evidence.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Bind authorization to the caller, target resource and action; do not let model t
 ### 3. Operational test and owner
 
 Test tool misuse, forged tool results, memory poisoning and runaway loops. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Define a per-call policy for the send-email tool: caller identity, purpose, resource, audience, rate and approval. Test unauthorized object access and denied calls even when an agent text prompt claims authority.
+
+**Observable evidence:** Tool-authorization decision table and negative tests.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ An agent is asked to bulk-email students but the task only approved a draft. **I
 ## Student studio instructions
 
 Submit **Tool permission matrix and before/after trace**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Tool-authorization decision table and negative tests. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain security requirements and verification, apply it to the CampusAssist case, and defend the evidence in **control verification matrix with test ids**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [AISVS: Artificial Intelligence Security Verification Standard 1.0](https://owasp.org/projects/artificial-intelligence-security-verification-standard-aisvs-docs) — Select verifiable requirements by assurance level
 - [ASVS: Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) — Conventional application controls
 - [SP53: SP 800-53 Rev. 5, Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) — Tailor controls; no automatic AI compliance claim
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [CSA_CCM: Cloud Controls Matrix (CCM) v4.1](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1) — Cloud controls and shared responsibility; 207 controls across 17 domains.
+- [NIST_53A: SP 800-53A Rev. 5, Assessing Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final) — Specify examination, interview or test and document evidence limitations.
+- [CIS_CONTROLS: CIS Critical Security Controls v8.1](https://www.cisecurity.org/controls/v8-1) — Select a small feasible baseline for identity, inventory, logging and recovery.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ For each control state owner, implementation evidence and negative test. Ask whi
 ### 3. Operational test and owner
 
 Use CSF 2.0 for program outcomes and SP 800-53 for tailored controls. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Choose a cloud IAM/logging control and an AI tool boundary control. Specify criterion, evidence, examination or test and pass/fail, then explain why a mapping alone is not an effective-control finding.
+
+**Observable evidence:** Two test cards with evidence ID and residual risk.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ The team lists “secure AI” as a control with no pass criterion. **Instructor
 ## Student studio instructions
 
 Submit **Control verification matrix with test IDs**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Two test cards with evidence ID and residual risk. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

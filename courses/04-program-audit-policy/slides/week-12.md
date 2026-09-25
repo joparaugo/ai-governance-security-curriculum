@@ -37,6 +37,13 @@ The university board votes on scaling CampusAssist to all campuses.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Run the board vote with first- and second-line positions, independent audit caveat, affected-student perspective and explicit stop condition.
+- **Deliver:** Board decision record with dissent, assurance boundary and revisit date.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Present and defend decision before a mock board with dissent.
@@ -51,6 +58,6 @@ Present and defend decision before a mock board with dissent.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO42001, RMF, ISO19011
+**Reading anchors:** COSO_BOARD, IIA_THREE, ISO42001, RMF, ISO19011
 
 <!-- Speaker: Collect a 100-word individual defense. -->

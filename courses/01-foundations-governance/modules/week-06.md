@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain ai risk assessment, apply it to the CampusAssist case, and defend the evidence in **risk register with rationale, owners and residual risk**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO23894: ISO/IEC 23894:2023, AI risk management](https://www.iso.org/standard/77304.html) — AI risks through lifecycle
 - [ISO31000: ISO 31000:2018, Risk management](https://www.iso.org/standard/65694.html) — Risk process independent of domain
 - [PLAY: AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/) — Suggested actions; choose based on context
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_ERM: Enterprise Risk Management—Integrating with Strategy and Performance](https://www.coso.org/guidance-erm) — Connect strategic objectives, risk appetite, risk response and performance.
+- [NIST_RISK30: SP 800-30 Rev. 1, Guide for Conducting Risk Assessments](https://csrc.nist.gov/pubs/sp/800/30/r1/final) — State threat, vulnerability, likelihood, impact and uncertainty for scenarios.
+- [COSO_AI: Realize the Full Potential of Artificial Intelligence](https://www.coso.org/artificial-intelligence) — Apply enterprise risk principles to AI strategy and governance.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Differentiate inherent risk from residual risk after a specific control and evid
 ### 3. Operational test and owner
 
 Choose avoid, reduce, transfer or accept with an accountable owner and deadline. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Frame CampusAssist as a strategic objective with risk appetite, then construct one SP 800-30 style threat-vulnerability-impact scenario. Show what evidence is missing before estimating likelihood; assign treatment and review.
+
+**Observable evidence:** Risk register row with uncertainty and risk appetite decision.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ A missed outreach risk is scored against academic harm and privacy harm separate
 ## Student studio instructions
 
 Submit **Risk register with rationale, owners and residual risk**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Risk register row with uncertainty and risk appetite decision. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

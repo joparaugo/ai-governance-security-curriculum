@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain strategy and ai portfolio, apply it to the CampusAssist case, and defend the evidence in **ai strategy one-pager and portfolio triage**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [ISO38507: ISO/IEC 38507:2022, Governance implications of AI](https://www.iso.org/standard/56641.html) — Governing body oversight
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_ERM: Enterprise Risk Management—Integrating with Strategy and Performance](https://www.coso.org/guidance-erm) — Connect strategic objectives, risk appetite, risk response and performance.
+- [COSO_BOARD: Corporate Governance: Guiding Principles for Board Oversight](https://www.coso.org/corporate-governance-guiding-principles) — Define board oversight, reporting and escalation for AI portfolio decisions.
+- [COBIT: COBIT 2019 governance and management](https://www.isaca.org/resources/cobit) — Separate governance objectives from management execution.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Segment an AI portfolio by impact, scale, uncertainty and supplier dependence. A
 ### 3. Operational test and owner
 
 Create a decision intake and escalation process with transparent exceptions. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Turn strategic objectives into AI risk appetite and a board reporting threshold. Distinguish board oversight from program management, and choose one leading metric and one decision that metric informs.
+
+**Observable evidence:** Strategy/risk/decision brief for the board.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ CampusAssist is one of 16 unregistered departmental AI uses. **Instructor model:
 ## Student studio instructions
 
 Submit **AI strategy one-pager and portfolio triage**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Strategy/risk/decision brief for the board. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

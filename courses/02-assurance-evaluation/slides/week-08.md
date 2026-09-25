@@ -37,6 +37,12 @@ CampusAssist chatbot invents a scholarship deadline.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Additional source application
+
+- Compare a model test, a human process check and a GenAI/agent test. Identify which AI Verify features address the traditional prediction model and which risks still need locally defined tests.
+- **Evidence:** Evaluation method comparison and uncovered risk.
+
+---
 ## Studio: produce an artifact
 
 Write 12 synthetic prompts across six risk categories and define scoring rubric.
@@ -51,6 +57,6 @@ Write 12 synthetic prompts across six risk categories and define scoring rubric.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** GAI, ARIA, EVAL_DRAFT, ISO42119
+**Reading anchors:** AI_VERIFY, GAI, ARIA, EVAL_DRAFT, ISO42119
 
 <!-- Speaker: Collect a 100-word individual defense. -->

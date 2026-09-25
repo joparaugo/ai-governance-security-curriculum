@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 ---
-# Threat modeling with ATLAS
+# ATT&CK and ATLAS threat modeling
 ### SEC 430 · Week 02
 
 <!-- Speaker: Ask for one case assumption before revealing the outline. -->
@@ -37,6 +37,13 @@ An outsider can alter a public scholarship web page retrieved by the assistant.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Build a two-part chain: an ordinary cloud identity misuse is searched in ATT&CK, followed by a manipulated retrieved page in ATLAS. Label each link observed or hypothetical; consult D3FEND for a candidate defense and write a local verification test.
+- **Deliver:** Paired ATT&CK/ATLAS attack paths with one detection and test.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Create two attack trees, including one ordinary access-control failure.
@@ -51,6 +58,6 @@ Create two attack trees, including one ordinary access-control failure.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ATLAS, AML, ASVS
+**Reading anchors:** MITRE_ATTACK, MITRE_CLOUD, MITRE_D3FEND, ATLAS, AML, ASVS
 
 <!-- Speaker: Collect a 100-word individual defense. -->

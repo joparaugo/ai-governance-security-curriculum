@@ -37,6 +37,13 @@ An agent is asked to bulk-email students but the task only approved a draft.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Define a per-call policy for the send-email tool: caller identity, purpose, resource, audience, rate and approval. Test unauthorized object access and denied calls even when an agent text prompt claims authority.
+- **Deliver:** Tool-authorization decision table and negative tests.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Patch the simulation policy; run the local adversarial fixtures.
@@ -51,6 +58,6 @@ Patch the simulation policy; run the local adversarial fixtures.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** OWASP_AGENT, AISVS, CSF
+**Reading anchors:** NIST_ZTA, OWASP_API, CSA_AICM_GUIDE, OWASP_AGENT, AISVS, CSF
 
 <!-- Speaker: Collect a 100-word individual defense. -->

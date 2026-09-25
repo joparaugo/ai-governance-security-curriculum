@@ -37,6 +37,13 @@ The board must choose reject, defer, pilot or approve CampusAssist.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Prepare two board questions on residual AI risk and a decision boundary for expanding from a pilot. Show how independent assurance and student complaints reach the board.
+- **Deliver:** Board minutes excerpt with conditional approval and escalation.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Hold a 30-minute decision meeting with challenger and affected-party seats.
@@ -51,6 +58,6 @@ Hold a 30-minute decision meeting with challenger and affected-party seats.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** RMF, ISO42001, ISO42005
+**Reading anchors:** COSO_BOARD, RMF, ISO42001, ISO42005
 
 <!-- Speaker: Collect a 100-word individual defense. -->

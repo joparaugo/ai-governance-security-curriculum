@@ -37,6 +37,13 @@ Faculty begin pasting identifiable student notes into a public chatbot.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- For the proposed email tool, distinguish preventive approval, detective logging and corrective rollback. Connect each control to an objective, owner, evidence and monitoring date; avoid treating a COSO overview as a certification.
+- **Deliver:** One-page internal control design for GenAI tool use.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Draft a two-page acceptable-use policy and run a tabletop exception.
@@ -51,6 +58,6 @@ Draft a two-page acceptable-use policy and run a tabletop exception.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO42001, PLAY, ISO27001
+**Reading anchors:** COSO_IC, COSO_GENAI, ISO42001, PLAY, ISO27001
 
 <!-- Speaker: Collect a 100-word individual defense. -->

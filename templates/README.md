@@ -14,3 +14,6 @@ Copy, rename and fill these originals; they contain prompts and example columns,
 | [Audit workpaper](audit-workpaper.md) | Criteria, sample, evidence and findings |
 | [Incident runbook](incident-runbook.md) | Triage, containment, communications and recovery |
 | [Governance charter](governance-charter.md) | Decision rights and reviews |
+| [Control evidence matrix](control-evidence-matrix.csv) | Cloud/AI control owners, tests, exceptions and evidence |
+| [Assurance scope note](assurance-scope-note.md) | CAIQ, STAR, SOC 2 and certificate scope and limitations |
+| [Board risk brief](board-risk-brief.md) | COSO strategy, risk appetite, control and board decision |

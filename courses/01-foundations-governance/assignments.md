@@ -29,6 +29,8 @@ All assignments use the [fictional case](../../shared/case-campusassist.md). Sou
 
 **Student task.** A five-scenario risk register with likelihood and impact scales, inherent/residual rationale, treatment and owner; an AI impact assessment with affected-party input; a data-flow/retention table; and a conditional approval memo.
 
+**Added source application (assessed).** Use the [COSO ERM overview](https://www.coso.org/guidance-erm) to tie one risk to institutional objectives and risk appetite. Use [NIST SP 800-30](https://csrc.nist.gov/pubs/sp/800/30/r1/final) to state threat, vulnerability, impact and uncertainty for that scenario. Show which evidence would change the score; these are related but different tools.
+
 **Required process.** Start with the case evidence IDs and identify one fact you would verify with a primary source. Distinguish observation, assumption, decision and residual uncertainty. Cite at least three publisher links from [the catalog](../../shared/resources.md). Name at least one affected person, an accountable owner and a review date. In the final paragraph, defend a rejected alternative. Submit accessible text plus any table/code artifacts. Mark all synthetic calculations as teaching examples.
 
 **Instructor answer guidance (public).** Strong response considers privacy and opportunity harms, distinguishes a privacy DPIA from broader impact assessment, makes human oversight feasible, and identifies unresolved legal questions. Accept more than one recommendation if the evidence, tradeoffs and limits support it. Ask for an oral challenge: “Which fact, if reversed, changes your recommendation?”
@@ -50,6 +52,10 @@ All assignments use the [fictional case](../../shared/case-campusassist.md). Sou
 
 **Student task.** Submit system card, inventory entry, governance charter and RACI, risk register, AI impact assessment, acceptable-use excerpt, decision log, measurable pilot conditions, appeal path, stop/rollback triggers and a five-minute board presentation.
 
+**Added source application (assessed).** Complete the [board risk brief](../../templates/board-risk-brief.md). Explain the distinct roles of [COSO Internal Control](https://www.coso.org/internal-control), [board oversight guidance](https://www.coso.org/corporate-governance-guiding-principles), [COBIT governance](https://www.isaca.org/resources/cobit), and the [IIA Three Lines Model](https://www.theiia.org/en/standards/documents/). Name a board trigger and preserve independent challenge; 10 of the evidence/method points require a correct role and evidence chain.
+
+**Regional extension:** Contrast the voluntary [Singapore agentic AI framework](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2026/updated-model-ai-governance-framework-for-agentic-ai) with the case institution's approval rule and the EU partner's separate legal issue. Label which actor and jurisdiction each statement concerns.
+
 **Required process.** Start with the case evidence IDs and identify one fact you would verify with a primary source. Distinguish observation, assumption, decision and residual uncertainty. Cite at least three publisher links from [the catalog](../../shared/resources.md). Name at least one affected person, an accountable owner and a review date. In the final paragraph, defend a rejected alternative. Submit accessible text plus any table/code artifacts. Mark all synthetic calculations as teaching examples.
 
 **Instructor answer guidance (public).** A defensible board resolution limits claims, names owners, uses evidence IDs, sets monitoring dates, records dissent and does not conflate voluntary framework adoption with legal compliance. Accept more than one recommendation if the evidence, tradeoffs and limits support it. Ask for an oral challenge: “Which fact, if reversed, changes your recommendation?”
@@ -63,4 +69,3 @@ All assignments use the [fictional case](../../shared/case-campusassist.md). Sou
 | Risk, equity and security | 20% | Distinct harms, causes, controls and residual risk with owners | Several issues recognized but controls vague | Material harm or attack surface ignored |
 | Feasible decision and review | 20% | Action, owner, timeframe, test and stop criteria | Decision given without all follow-up | No implementable decision |
 | Writing and citations | 15% | Clear accessible structure, primary links, explicit uncertainty | Understandable but incomplete citations | Unclear or uncredited claims |
-

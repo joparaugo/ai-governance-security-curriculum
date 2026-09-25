@@ -2,13 +2,17 @@
 
 **Learning target.** By the end, a learner can explain secure release exercise, apply it to the CampusAssist case, and defend the evidence in **security capstone: threat model, tests, control plan, release memo**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [AISVS: Artificial Intelligence Security Verification Standard 1.0](https://owasp.org/projects/artificial-intelligence-security-verification-standard-aisvs-docs) — Select verifiable requirements by assurance level
 - [SSDF_AI: SP 800-218A, Secure Development Practices for Generative AI and Dual-Use Foundation Models](https://csrc.nist.gov/pubs/sp/800/218/a/final) — AI-specific SSDF profile
 - [AICM: AI Controls Matrix v1.1](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1) — Cloud AI control evidence
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [CSA_CCM: Cloud Controls Matrix (CCM) v4.1](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1) — Cloud controls and shared responsibility; 207 controls across 17 domains.
 
 ## Teach the concepts
 
@@ -23,6 +27,12 @@ Explain residual risks and who accepts them. Ask which plausible competing expla
 ### 3. Operational test and owner
 
 Demand reproducible evidence and treat untested integrations as conditions. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+At the release gate, verify at least one cloud/customer control and one AI-specific control; name their separate owners and evidence. A green cloud posture is insufficient if the tool-action boundary remains open.
+
+**Observable evidence:** Release gate table with two owners and stop condition.
 
 ## Worked case
 
@@ -41,6 +51,8 @@ CampusAssist will launch to one department next week. **Instructor model:** A re
 ## Student studio instructions
 
 Submit **Security capstone: threat model, tests, control plan, release memo**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Release gate table with two owners and stop condition. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

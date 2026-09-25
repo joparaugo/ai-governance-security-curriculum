@@ -2,13 +2,24 @@
 
 **Learning target.** By the end, a learner can explain procurement and third-party risk, apply it to the CampusAssist case, and defend the evidence in **vendor due diligence pack and decision recommendation**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [AICM: AI Controls Matrix v1.1](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1) — Cloud AI control evidence
 - [SSDF_AI: SP 800-218A, Secure Development Practices for Generative AI and Dual-Use Foundation Models](https://csrc.nist.gov/pubs/sp/800/218/a/final) — AI-specific SSDF profile
 - [ISO27001: ISO/IEC 27001:2022, Information security management](https://www.iso.org/standard/27001) — ISMS assurance
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [CSA_CAIQ: STAR Level 1 Security Questionnaire (CAIQ v4.1)](https://cloudsecurityalliance.org/artifacts/star-level-1-security-questionnaire-caiq-v4-1) — Collect provider control assertions and evidence; use STAR-submittable version.
+- [CSA_AI_CAIQ: AI-CAIQ in the AICM v1.1 resource bundle](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1) — Assess AI-specific supplier claims; STAR for AI submission formats can differ by date.
+- [CSA_STAR: STAR cloud assurance program and registry](https://cloudsecurityalliance.org/star) — Distinguish self-assessment, third-party assurance and scope.
+- [CSA_STAR_AI: STAR for AI program](https://cloudsecurityalliance.org/star/ai) — Compare AI self-assessment with independent certification and its stated scope.
+- [NIST_SCRM: SP 800-161 Rev. 1 update 1, Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/pubs/sp/800/161/r1/upd1/final) — Evaluate model, dataset, component and service supplier risk.
+- [ISO27017: ISO/IEC 27017:2026, Cloud Security Controls](https://www.iso.org/standard/27017) — Cloud service provider and customer controls.
+- [ISO27018: ISO/IEC 27018:2025, Public Cloud PII Protection](https://www.iso.org/standard/27018) — Public-cloud PII processor considerations; clarify legal and contractual role.
+- [SOC2: SOC 2 and Trust Services Criteria resources](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) — Read report period, service boundary, criteria, exceptions and user controls; never infer model assurance.
 
 ## Teach the concepts
 
@@ -23,6 +34,12 @@ Assign responsibilities for incidents, model changes, notification and data dele
 ### 3. Operational test and owner
 
 Test vendor claims with sample evidence rather than only questionnaires. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Issue separate CAIQ cloud and AI-CAIQ AI questions. Evaluate STAR/STAR for AI declarations, any SOC 2 scope and the vendor's model-update rights. Mark unanswered items; assign provider/customer ownership and a contractual remedy.
+
+**Observable evidence:** Supplier assurance grid with claims, scope, period, exceptions, owners and decision.
 
 ## Worked case
 
@@ -41,6 +58,8 @@ Vendor refuses evaluation access and permits unilateral model updates. **Instruc
 ## Student studio instructions
 
 Submit **Vendor due diligence pack and decision recommendation**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Supplier assurance grid with claims, scope, period, exceptions, owners and decision. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

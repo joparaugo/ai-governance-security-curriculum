@@ -25,3 +25,7 @@ Week 3: case scope and thesis; Week 6: evidence baseline; Week 9: peer challenge
 ## Topic sensitivities
 
 Use fictional students, no real institutional records. Legal exercises are issue-spotting, not professional legal advice. For a paywalled ISO standard, teach the publisher overview and free NIST/OWASP equivalents, and label any crosswalk as the instructors' interpretation. See [source status](../../shared/resources.md).
+
+## Added assurance boundary sequence
+
+Week 1 separates a vendor assertion from objective, criteria, test and observed evidence. Week 3 records a model/dataset/software component trace using SPDX. Week 8 compares an AI Verify traditional-model test with separately designed agent behavior tests. In week 10 contrast a hosting SOC 2 report with model-performance and fairness evaluation; E-10 contains a marketing claim, not a report. In week 12 students design a NIST SP 800-53A control test and an independent IIA-style review. Require the [assurance scope note](../../templates/assurance-scope-note.md) in the capstone and the scope/period/exception check in feedback.

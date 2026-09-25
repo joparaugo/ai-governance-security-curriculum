@@ -37,6 +37,13 @@ A missed outreach risk is scored against academic harm and privacy harm separate
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Frame CampusAssist as a strategic objective with risk appetite, then construct one SP 800-30 style threat-vulnerability-impact scenario. Show what evidence is missing before estimating likelihood; assign treatment and review.
+- **Deliver:** Risk register row with uncertainty and risk appetite decision.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Populate and challenge a five-row risk register; change one assumption.
@@ -51,6 +58,6 @@ Populate and challenge a five-row risk register; change one assumption.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO23894, ISO31000, PLAY
+**Reading anchors:** COSO_ERM, NIST_RISK30, COSO_AI, ISO23894, ISO31000, PLAY
 
 <!-- Speaker: Collect a 100-word individual defense. -->

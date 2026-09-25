@@ -37,6 +37,12 @@ CampusAssist is offered by a US vendor to an EU partner university.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Additional source application
+
+- Compare a proposed agent tool’s autonomy and human approval with the EU and Singapore policy approaches; label the jurisdiction and legal status of each.
+- **Evidence:** Jurisdiction and framework-status comparison.
+
+---
 ## Studio: produce an artifact
 
 Map provider/deployer roles and list facts needed for counsel.
@@ -51,6 +57,6 @@ Map provider/deployer roles and list facts needed for counsel.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** EU_ACT, EU_AMEND, EU_TIMELINE, OECD
+**Reading anchors:** IMDA_AGENT, EU_ACT, EU_AMEND, EU_TIMELINE, OECD
 
 <!-- Speaker: Collect a 100-word individual defense. -->

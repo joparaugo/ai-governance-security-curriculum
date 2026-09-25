@@ -37,6 +37,13 @@ A retrieval page causes 14 blocked outbound email attempts in one hour.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Triangulate a suspicious cloud token event, page-content change and denied outbound email. Search ATT&CK for enterprise behavior and ATLAS for AI behavior; decide which telemetry would confirm or reject each.
+- **Deliver:** Detection coverage row and incident triage decision.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Hold a tabletop with timed incident injects and role assignments.
@@ -51,6 +58,6 @@ Hold a tabletop with timed incident injects and role assignments.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** IR, CSF, MONITOR
+**Reading anchors:** MITRE_CLOUD, MITRE_D3FEND, IR, CSF, MONITOR
 
 <!-- Speaker: Collect a 100-word individual defense. -->

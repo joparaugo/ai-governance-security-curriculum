@@ -37,6 +37,13 @@ The university has an ISMS but no AI inventory or impact review.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Map AIMS, existing internal control and compliance responsibilities: an obligation owner, service control owner and independent reviewer. Compare NIST system RMF authorization steps with NIST AI RMF outcomes; do not merge the two RMFs.
+- **Deliver:** Integrated process map with scope and evidence boundaries.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Build a process map and evidence register for a scoped AIMS.
@@ -51,6 +58,6 @@ Build a process map and evidence register for a scoped AIMS.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO42001, ISO27001, ISO27701
+**Reading anchors:** COSO_IC, ISO37301, NIST_SYS_RMF, ISO42001, ISO27001, ISO27701
 
 <!-- Speaker: Collect a 100-word individual defense. -->

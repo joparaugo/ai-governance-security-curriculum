@@ -87,3 +87,7 @@ Use these as formative items or change facts for summative use. Suggested time: 
 - 10: Name an owner, test population, threshold or observable evidence, review date and stop action. Award 10 points for method, 10 for correct application, 5 for uncertainty and 5 for a cited anchor or case evidence.
 
 **Item analysis:** after class, record which distractors attracted learners and revise ambiguous wording. Never infer competence from these ten items alone; use applied artifacts and defense.
+
+## Supplementary source-application check (formative)
+
+**Prompt:** E-01 authorizes only a pilot. The board wants the internal auditor to set the email-tool approval rule and later audit its effectiveness. Name two distinct roles using [IIA Three Lines](https://www.theiia.org/en/standards/documents/) and one [COSO board](https://www.coso.org/corporate-governance-guiding-principles) question. **Key:** management owns design and operation, risk/compliance challenges it, internal audit independently reviews it; the board asks for stop criteria, unresolved risk and an independent escalation route. Award credit for a conflict safeguard if audit previously designed the rule.

@@ -37,6 +37,13 @@ The same program manager approved and self-audited the pilot.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Assign first-line model approvals, second-line compliance challenge and independent internal audit. Form an audit objective, criteria and sample, and plan safeguards if an auditor helped design a control.
+- **Deliver:** Independent audit plan with conflicts and safeguards.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Audit a synthetic evidence pack and interview the system owner.
@@ -51,6 +58,6 @@ Audit a synthetic evidence pack and interview the system owner.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO19011, ISO42006, ISO42001
+**Reading anchors:** IIA_THREE, IIA_AUDIT, COSO_IC, ISO19011, ISO42006, ISO42001
 
 <!-- Speaker: Collect a 100-word individual defense. -->

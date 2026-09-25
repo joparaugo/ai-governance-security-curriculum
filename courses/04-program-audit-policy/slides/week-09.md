@@ -37,6 +37,13 @@ A student advocacy group reports disproportionate missed outreach after launch.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Map the alleged prompt-injection incident to a control owner, escalation threshold and report to senior management or board. Distinguish a denied action from confirmed data exfiltration.
+- **Deliver:** Crisis reporting note with uncertainty and next test.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Simulate 48 hours of incident decisions with timed injects.
@@ -51,6 +58,6 @@ Simulate 48 hours of incident decisions with timed injects.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** IR, ISO42001, CSF
+**Reading anchors:** COSO_GENAI, IR, ISO42001, CSF
 
 <!-- Speaker: Collect a 100-word individual defense. -->

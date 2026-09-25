@@ -1,21 +1,21 @@
 course,outcome,competency,depth,source_ids,assessment_evidence
-01-foundations-governance,1,System boundary and lifecycle,Apply,"ISO22989;ISO23053;ISO5338;RMF",System card and workflow map
-01-foundations-governance,2,Authority and framework literacy,Analyze,"RMF;ISO42001;EU_ACT;OECD",Authority memo
-01-foundations-governance,3,Inventory and risk assessment,Create,"ISO23894;ISO31000;PLAY",Inventory and risk register
-01-foundations-governance,4,Impact and stakeholder analysis,Create,"ISO42005;UNESCO;DPIA",Impact assessment and participation record
-01-foundations-governance,5,Governance decision and policy,Defend,"ISO38507;ISO42001;RMF",Board portfolio and RACI
-02-assurance-evaluation,1,Testable assurance claims,Analyze,"RMF;ISO25059;ARIA",Evaluation protocol
-02-assurance-evaluation,2,Data provenance and label quality,Create,"ISO5259;ISO5259_3;ISO5338",Dataset card
-02-assurance-evaluation,3,Group metrics and uncertainty,Evaluate,"ISO24027;EVAL_STATS;IEEE7003",Reproducible confusion matrices and audit
-02-assurance-evaluation,4,Generative and agent evaluation,Create,"GAI;ISO42119;OWASP_AGENT",Annotated red-team and agent test sets
-02-assurance-evaluation,5,Assurance and monitoring,Defend,"MONITOR;ISO19011;RMF",Assurance dossier and review letter
-03-security-engineering,1,AI and application threat model,Create,"AML;ATLAS;ASVS",Architecture and attack paths
-03-security-engineering,2,Adversarial ML attack analysis,Analyze,"AML;ISO24029;AISVS",Poisoning/evasion test plans
-03-security-engineering,3,Tool authorization and data isolation,Implement,"OWASP_LLM;OWASP_AGENT;AISVS",Offline lab traces and permission matrix
-03-security-engineering,4,Secure development and verification,Create,"SSDF_AI;SP53;AICM",Control tests and supply-chain checklist
-03-security-engineering,5,Detection and response,Defend,"IR;CSF;MONITOR",Incident runbook and release memo
-04-program-audit-policy,1,AI management system program,Create,"ISO42001;ISO38507;RMF",AIMS process map and 90-day roadmap
-04-program-audit-policy,2,Supplier and shared responsibility,Evaluate,"AICM;SSDF_AI;ISO27001",Vendor due diligence and contract redlines
-04-program-audit-policy,3,Internal audit and assurance,Evaluate,"ISO19011;ISO42006;AISVS",Audit workpapers and bounded claims
-04-program-audit-policy,4,Jurisdiction and global policy,Analyze,"EU_ACT;EU_AMEND;GDPR;OECD;COE",Current-date legal issue spotter
-04-program-audit-policy,5,Board decision and improvement,Defend,"ISO42001;RMF;IR",Governance program portfolio
+01-foundations-governance,1,System boundary and lifecycle,Apply,ISO22989;ISO23053;ISO5338;RMF,System card and workflow map
+01-foundations-governance,2,Authority and framework literacy,Analyze,RMF;ISO42001;EU_ACT;OECD;COSO_IC;COSO_ERM;COBIT,Authority memo
+01-foundations-governance,3,Inventory and risk assessment,Create,ISO23894;ISO31000;PLAY;COSO_ERM;NIST_RISK30,Inventory and risk register
+01-foundations-governance,4,Impact and stakeholder analysis,Create,ISO42005;UNESCO;DPIA;IMDA_AGENT,Impact assessment and participation record
+01-foundations-governance,5,Governance decision and policy,Defend,ISO38507;ISO42001;RMF;IIA_THREE;COSO_BOARD;COSO_GENAI,Board portfolio and RACI
+02-assurance-evaluation,1,Testable assurance claims,Analyze,RMF;ISO25059;ARIA;SOC2;COSO_IC,Evaluation protocol
+02-assurance-evaluation,2,Data provenance and label quality,Create,ISO5259;ISO5259_3;ISO5338;SPDX_AI,Dataset card
+02-assurance-evaluation,3,Group metrics and uncertainty,Evaluate,ISO24027;EVAL_STATS;IEEE7003,Reproducible confusion matrices and audit
+02-assurance-evaluation,4,Generative and agent evaluation,Create,GAI;ISO42119;OWASP_AGENT;AI_VERIFY,Annotated red-team and agent test sets
+02-assurance-evaluation,5,Assurance and monitoring,Defend,MONITOR;ISO19011;RMF;NIST_53A;IIA_AUDIT,Assurance dossier and review letter
+03-security-engineering,1,AI and application threat model,Create,AML;ATLAS;ASVS;MITRE_ATTACK;MITRE_CLOUD;MITRE_D3FEND,Architecture and attack paths
+03-security-engineering,2,Adversarial ML attack analysis,Analyze,AML;ISO24029;AISVS,Poisoning/evasion test plans
+03-security-engineering,3,Tool authorization and data isolation,Implement,OWASP_LLM;OWASP_AGENT;AISVS;NIST_ZTA;OWASP_API,Offline lab traces and permission matrix
+03-security-engineering,4,Secure development and verification,Create,SSDF_AI;SP53;AICM;CSA_CCM;CIS_CONTROLS;NIST_SCRM;ISO27017;SLSA,Control tests and supply-chain checklist
+03-security-engineering,5,Detection and response,Defend,IR;CSF;MONITOR;NIST_53A;NCSC_SECUREAI,Incident runbook and release memo
+04-program-audit-policy,1,AI management system program,Create,ISO42001;ISO38507;RMF;COSO_ERM;COSO_IC;COBIT;COSO_BOARD;ISO37301,AIMS process map and 90-day roadmap
+04-program-audit-policy,2,Supplier and shared responsibility,Evaluate,AICM;SSDF_AI;ISO27001;CSA_CCM;CSA_CAIQ;CSA_AI_CAIQ;CSA_STAR;CSA_STAR_AI;ISO27017;ISO27018;NIST_SCRM;SOC2,Vendor due diligence and contract redlines
+04-program-audit-policy,3,Internal audit and assurance,Evaluate,ISO19011;ISO42006;AISVS;IIA_THREE;IIA_AUDIT;NIST_53A,Audit workpapers and bounded claims
+04-program-audit-policy,4,Jurisdiction and global policy,Analyze,EU_ACT;EU_AMEND;GDPR;OECD;COE;IMDA_AGENT,Current-date legal issue spotter
+04-program-audit-policy,5,Board decision and improvement,Defend,ISO42001;RMF;IR;COSO_GENAI;COSO_BOARD,Governance program portfolio

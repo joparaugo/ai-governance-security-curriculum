@@ -16,17 +16,17 @@ Build an operating AI governance program, audit evidence, manage suppliers and i
 
 | Week | Module | Source IDs | Slide deck |
 |---:|---|---|---|
-| 01 | [Strategy and AI portfolio](modules/week-01.md) | ISO42001, ISO38507, RMF | [Slides](slides/week-01.md) |
-| 02 | [AI management system architecture](modules/week-02.md) | ISO42001, ISO27001, ISO27701 | [Slides](slides/week-02.md) |
-| 03 | [Framework crosswalk and control design](modules/week-03.md) | RMF, ISO42001, CSF, SP53 | [Slides](slides/week-03.md) |
-| 04 | [Procurement and third-party risk](modules/week-04.md) | AICM, SSDF_AI, ISO27001 | [Slides](slides/week-04.md) |
+| 01 | [Strategy and AI portfolio](modules/week-01.md) | ISO42001, ISO38507, RMF, COSO_ERM, COSO_BOARD, COBIT | [Slides](slides/week-01.md) |
+| 02 | [AI management system architecture](modules/week-02.md) | ISO42001, ISO27001, ISO27701, COSO_IC, ISO37301, NIST_SYS_RMF | [Slides](slides/week-02.md) |
+| 03 | [Framework crosswalk and control design](modules/week-03.md) | RMF, ISO42001, CSF, SP53, CSA_CCM, COSO_IC, NIST_53A | [Slides](slides/week-03.md) |
+| 04 | [Procurement and third-party risk](modules/week-04.md) | AICM, SSDF_AI, ISO27001, CSA_CAIQ, CSA_AI_CAIQ, CSA_STAR, CSA_STAR_AI, NIST_SCRM, ISO27017, ISO27018, SOC2 | [Slides](slides/week-04.md) |
 | 05 | [Privacy, records and sectoral law](modules/week-05.md) | FERPA, GDPR, DPIA, ISO27701 | [Slides](slides/week-05.md) |
 | 06 | [EU AI Act and international comparison](modules/week-06.md) | EU_ACT, EU_AMEND, EU_TIMELINE, OECD, COE | [Slides](slides/week-06.md) |
-| 07 | [Audit program and independence](modules/week-07.md) | ISO19011, ISO42006, ISO42001 | [Slides](slides/week-07.md) |
-| 08 | [Assurance reporting and certification claims](modules/week-08.md) | ISO42006, ISO42001, AISVS | [Slides](slides/week-08.md) |
-| 09 | [Incident, crisis and communication](modules/week-09.md) | IR, ISO42001, CSF | [Slides](slides/week-09.md) |
-| 10 | [Metrics and management review](modules/week-10.md) | RMF, ISO42001, MONITOR | [Slides](slides/week-10.md) |
-| 11 | [Public policy and governance research](modules/week-11.md) | OECD, UNESCO, IMDA, COE | [Slides](slides/week-11.md) |
-| 12 | [Board simulation and integrated capstone](modules/week-12.md) | ISO42001, RMF, ISO19011 | [Slides](slides/week-12.md) |
+| 07 | [Audit program and independence](modules/week-07.md) | ISO19011, ISO42006, ISO42001, IIA_THREE, IIA_AUDIT, COSO_IC | [Slides](slides/week-07.md) |
+| 08 | [Assurance reporting and certification claims](modules/week-08.md) | ISO42006, ISO42001, AISVS, SOC2, CSA_STAR_AI, NIST_53A | [Slides](slides/week-08.md) |
+| 09 | [Incident, crisis and communication](modules/week-09.md) | IR, ISO42001, CSF, COSO_GENAI | [Slides](slides/week-09.md) |
+| 10 | [Metrics and management review](modules/week-10.md) | RMF, ISO42001, MONITOR, COSO_ERM, COSO_IC | [Slides](slides/week-10.md) |
+| 11 | [Public policy and governance research](modules/week-11.md) | OECD, UNESCO, IMDA, COE, IMDA_AGENT | [Slides](slides/week-11.md) |
+| 12 | [Board simulation and integrated capstone](modules/week-12.md) | ISO42001, RMF, ISO19011, COSO_BOARD, IIA_THREE | [Slides](slides/week-12.md) |
 
 Each module contains teachable explanations, a 150-minute session plan, group exercise, assessment prompt and instructor cues. Slide files use Marp-compatible Markdown with speaker prompts. Assignment briefs, answer guidance and rubrics are provided separately. All weekly required readings link to free publisher material; ISO full texts are optional institutional-library extensions.

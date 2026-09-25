@@ -87,3 +87,7 @@ Use these as formative items or change facts for summative use. Suggested time: 
 - 10: Accept untrusted page attempting a send action and unauthorized user attempting direct tool/API call. Award 10 points for method, 10 for correct application, 5 for uncertainty and 5 for a cited anchor or case evidence.
 
 **Item analysis:** after class, record which distractors attracted learners and revise ambiguous wording. Never infer competence from these ten items alone; use applied artifacts and defense.
+
+## Supplementary source-application check (formative)
+
+**Prompt:** E-12 has a token sign-in, altered page and denied emails. Which part might be mapped to [ATT&CK cloud](https://attack.mitre.org/matrices/enterprise/cloud/) and which to [ATLAS](https://atlas.mitre.org/)? What would a [D3FEND](https://d3fend.mitre.org/about/) suggestion still require? **Key:** enterprise identity misuse is a hypothesis in ATT&CK; page-borne AI instruction manipulation is an ATLAS hypothesis; source logs, timeline and local defense test are needed. Denied actions do not establish exfiltration.

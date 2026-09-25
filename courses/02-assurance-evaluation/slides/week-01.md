@@ -37,6 +37,13 @@ Vendor reports 92% historical accuracy, without a test population description.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Take the vendor's 'secure and unbiased' sentence. Separate the assertion into hosting security, model fairness and service availability; specify criteria, a test method, evidence and limits for each. A SOC 2 scope does not establish model fairness.
+- **Deliver:** Claims-to-evidence table with three bounded assurance claims.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Write claim-evidence-argument pairs and challenge missing context.
@@ -51,6 +58,6 @@ Write claim-evidence-argument pairs and challenge missing context.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** RMF, ISO25059, ARIA
+**Reading anchors:** COSO_IC, NIST_53A, SOC2, RMF, ISO25059, ARIA
 
 <!-- Speaker: Collect a 100-word individual defense. -->

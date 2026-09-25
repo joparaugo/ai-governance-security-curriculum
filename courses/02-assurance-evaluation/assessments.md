@@ -87,3 +87,7 @@ Use these as formative items or change facts for summative use. Suggested time: 
 - 10: Accept override review, time-on-task or calibration plus observation/interview, with privacy safeguards. Award 10 points for method, 10 for correct application, 5 for uncertainty and 5 for a cited anchor or case evidence.
 
 **Item analysis:** after class, record which distractors attracted learners and revise ambiguous wording. Never infer competence from these ten items alone; use applied artifacts and defense.
+
+## Supplementary source-application check (formative)
+
+**Prompt:** E-10 advertises SOC 2 Type 2. Can it establish CampusAssist fairness? State two report facts and one separate model test to request using the [AICPA SOC 2 resources](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2). **Key:** No report was supplied. Ask for scope, period, criteria or exceptions and customer responsibilities. Fairness needs sampled model results with groups and denominators under a specified version; the hosting report alone cannot establish this.

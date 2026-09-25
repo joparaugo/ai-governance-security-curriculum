@@ -2,13 +2,17 @@
 
 **Learning target.** By the end, a learner can explain governance decision board, apply it to the CampusAssist case, and defend the evidence in **final governance portfolio and recorded rationale**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [ISO42005: ISO/IEC 42005:2025, AI system impact assessment](https://www.iso.org/standard/42005) — People and societal impacts
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_BOARD: Corporate Governance: Guiding Principles for Board Oversight](https://www.coso.org/corporate-governance-guiding-principles) — Define board oversight, reporting and escalation for AI portfolio decisions.
 
 ## Teach the concepts
 
@@ -23,6 +27,12 @@ State conditions for limited pilot, monitoring thresholds, ownership and stop cr
 ### 3. Operational test and owner
 
 Document dissent and uncertainty so later audits can reconstruct the decision. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Prepare two board questions on residual AI risk and a decision boundary for expanding from a pilot. Show how independent assurance and student complaints reach the board.
+
+**Observable evidence:** Board minutes excerpt with conditional approval and escalation.
 
 ## Worked case
 
@@ -41,6 +51,8 @@ The board must choose reject, defer, pilot or approve CampusAssist. **Instructor
 ## Student studio instructions
 
 Submit **Final governance portfolio and recorded rationale**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Board minutes excerpt with conditional approval and escalation. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

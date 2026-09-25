@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain audit program and independence, apply it to the CampusAssist case, and defend the evidence in **audit plan and two supported findings**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO19011: ISO 19011:2026, Auditing management systems](https://www.iso.org/standard/19011) — Audit evidence and independence
 - [ISO42006: ISO/IEC 42006:2025, AIMS certification bodies](https://www.iso.org/standard/42006) — Distinguish certification body requirements from organizational requirements
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [IIA_THREE: The IIA Three Lines Model](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) — Assign management, risk/compliance, independent assurance and board roles.
+- [IIA_AUDIT: Global Internal Audit Standards](https://www.theiia.org/en/content/standards/complete-global-internal-audit-standards/) — Plan competent, objective and independent audit work.
+- [COSO_IC: Internal Control—Integrated Framework](https://www.coso.org/internal-control) — Design control ownership, evidence and monitoring for AI-related objectives.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Request original evidence and trace one decision from approval through monitorin
 ### 3. Operational test and owner
 
 Write findings with requirement, condition, cause, effect and recommendation. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Assign first-line model approvals, second-line compliance challenge and independent internal audit. Form an audit objective, criteria and sample, and plan safeguards if an auditor helped design a control.
+
+**Observable evidence:** Independent audit plan with conflicts and safeguards.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ The same program manager approved and self-audited the pilot. **Instructor model
 ## Student studio instructions
 
 Submit **Audit plan and two supported findings**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Independent audit plan with conflicts and safeguards. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

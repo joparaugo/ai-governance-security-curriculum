@@ -2,13 +2,18 @@
 
 **Learning target.** By the end, a learner can explain independent assurance review, apply it to the CampusAssist case, and defend the evidence in **final evaluation dossier and review letter**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO19011: ISO 19011:2026, Auditing management systems](https://www.iso.org/standard/19011) — Audit evidence and independence
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
 - [EVAL_STATS: AI 800-3, Expanding the AI Evaluation Toolbox with Statistical Models](https://www.nist.gov/publications/expanding-ai-evaluation-toolbox-statistical-models) — Measurement assumptions and uncertainty
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [NIST_53A: SP 800-53A Rev. 5, Assessing Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final) — Specify examination, interview or test and document evidence limitations.
+- [IIA_AUDIT: Global Internal Audit Standards](https://www.theiia.org/en/content/standards/complete-global-internal-audit-standards/) — Plan competent, objective and independent audit work.
 
 ## Teach the concepts
 
@@ -23,6 +28,12 @@ Apply a challenger review distinct from the development team. Ask which plausibl
 ### 3. Operational test and owner
 
 Write an assurance conclusion scaled to evidence; recommend a monitored pilot when uncertainty is large. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Select one control for examination and one for a local negative test. Define test population and sampling, record deviation and limitations, and assign review outside the control owner's approval path.
+
+**Observable evidence:** Independent review letter with tests and exceptions.
 
 ## Worked case
 
@@ -41,6 +52,8 @@ A review panel receives a polished deck but cannot inspect original test IDs. **
 ## Student studio instructions
 
 Submit **Final evaluation dossier and review letter**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Independent review letter with tests and exceptions. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

@@ -11,6 +11,8 @@
 - [EVAL_DRAFT: AI 800-2, Towards Best Practices for Automated Benchmark Evaluations](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations) — Explicitly label as draft in class
 - [ISO42119: ISO/IEC TS 42119-2:2025, Testing AI systems](https://www.iso.org/standard/84127.html) — Risk-based AI testing process
 
+- [AI_VERIFY: AI Verify testing framework and toolkit](https://aiverifyfoundation.sg/what-is-ai-verify/) — Scope tests and process checks for traditional AI; not a general AI certification.
+
 ## Teach the concepts
 
 ### 1. Concept, decision and evidence
@@ -24,6 +26,12 @@ Score factuality, refusal appropriateness, harmful output and over-refusal with 
 ### 3. Operational test and owner
 
 Use human adjudication for ambiguous cases and record judge disagreement. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Additional official source exercise
+
+Compare a model test, a human process check and a GenAI/agent test. Identify which AI Verify features address the traditional prediction model and which risks still need locally defined tests.
+
+**Observable evidence:** Evaluation method comparison and uncovered risk.
 
 ## Worked case
 
@@ -42,6 +50,8 @@ CampusAssist chatbot invents a scholarship deadline. **Instructor model:** A fab
 ## Student studio instructions
 
 Submit **Red-team evaluation protocol and annotated test cases**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Additional source check.** Evaluation method comparison and uncovered risk. Explain why the source does or does not fit the CampusAssist system and cite its official page.
 
 ## 75-minute supervised extension
 

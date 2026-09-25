@@ -2,13 +2,20 @@
 
 **Learning target.** By the end, a learner can explain model and software supply chain, apply it to the CampusAssist case, and defend the evidence in **supply-chain acceptance checklist and change gate**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [SSDF: SP 800-218, Secure Software Development Framework](https://csrc.nist.gov/pubs/sp/800/218/final) — Secure development activities
 - [SSDF_AI: SP 800-218A, Secure Development Practices for Generative AI and Dual-Use Foundation Models](https://csrc.nist.gov/pubs/sp/800/218/a/final) — AI-specific SSDF profile
 - [ISO27001: ISO/IEC 27001:2022, Information security management](https://www.iso.org/standard/27001) — ISMS assurance
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [NIST_SCRM: SP 800-161 Rev. 1 update 1, Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/pubs/sp/800/161/r1/upd1/final) — Evaluate model, dataset, component and service supplier risk.
+- [NCSC_SECUREAI: Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) — Secure design, development, deployment and operations of AI systems.
+
+- [SLSA: SLSA supply chain security specification](https://slsa.dev/spec/v1.2/) — Verify source, builder and provenance for software artifacts; do not infer model safety.
 
 ## Teach the concepts
 
@@ -23,6 +30,18 @@ Review risks in third-party weights, packages and hosted inference terms. Ask wh
 ### 3. Operational test and owner
 
 Apply secure development practices and staged promotion with rollback. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Trace model weights, training data, package dependency, retrieval feed and vendor API to their origin and update mechanism. Document verification, change notice, rollback and ownership.
+
+**Observable evidence:** Supply-chain lineage row and change-control decision.
+
+### Additional official source exercise
+
+Request software build provenance for the agent app and an SPDX-style AI component record for model, dataset and dependencies; trace a changed package to its release decision.
+
+**Observable evidence:** Supplier provenance request and rollback evidence.
 
 ## Worked case
 
@@ -41,6 +60,10 @@ The vendor silently swaps the model after an audit. **Instructor model:** A SOC 
 ## Student studio instructions
 
 Submit **Supply-chain acceptance checklist and change gate**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Supply-chain lineage row and change-control decision. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
+
+**Additional source check.** Supplier provenance request and rollback evidence. Explain why the source does or does not fit the CampusAssist system and cite its official page.
 
 ## 75-minute supervised extension
 

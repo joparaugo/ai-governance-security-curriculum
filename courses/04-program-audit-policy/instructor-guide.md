@@ -25,3 +25,7 @@ Week 3: case scope and thesis; Week 6: evidence baseline; Week 9: peer challenge
 ## Topic sensitivities
 
 Use fictional students, no real institutional records. Legal exercises are issue-spotting, not professional legal advice. For a paywalled ISO standard, teach the publisher overview and free NIST/OWASP equivalents, and label any crosswalk as the instructors' interpretation. See [source status](../../shared/resources.md).
+
+## Added enterprise governance and supplier sequence
+
+Weeks 1–3 link COSO ERM strategy/risk appetite, internal control evidence, COBIT governance and ISO 37301 compliance to an AIMS without claiming equivalence. Week 4 runs the [CSA cloud/AI supplier tabletop](../../labs/lab-05-cloud-ai-assurance.md). In weeks 7–8 use IIA Three Lines and Global Internal Audit Standards to test independence, then compare the scope and period of any SOC 2, STAR or ISO claims. The final board vote requires the [board risk brief](../../templates/board-risk-brief.md), a dissent and a dated stop trigger. Paywalled standards stay optional; required claims can be supported with free publisher overviews and the original case.

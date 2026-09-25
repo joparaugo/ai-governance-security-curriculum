@@ -2,7 +2,7 @@
 
 **Learning target.** By the end, a learner can explain framework types and authority, apply it to the CampusAssist case, and defend the evidence in **authority matrix with corrected claim and primary citation**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
@@ -10,6 +10,12 @@
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [CSF: Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Govern plus Identify, Protect, Detect, Respond, Recover
 - [EU_ACT: Regulation (EU) 2024/1689, AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng) — Read with 2026/1744 and Commission timeline
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_IC: Internal Control—Integrated Framework](https://www.coso.org/internal-control) — Design control ownership, evidence and monitoring for AI-related objectives.
+- [COSO_ERM: Enterprise Risk Management—Integrating with Strategy and Performance](https://www.coso.org/guidance-erm) — Connect strategic objectives, risk appetite, risk response and performance.
+- [COBIT: COBIT 2019 governance and management](https://www.isaca.org/resources/cobit) — Separate governance objectives from management execution.
 
 ## Teach the concepts
 
@@ -24,6 +30,12 @@ Explain why a crosswalk helps organize evidence but cannot certify compliance. A
 ### 3. Operational test and owner
 
 Use a version and jurisdiction column in every standards map. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Build a three-column authority memo: COSO control structure, COSO enterprise risk decisions, and COBIT technology governance. For each source name a board question, an operational owner and one record to request; explain why none substitutes for law.
+
+**Observable evidence:** Authority memo with three distinct source purposes and evidence owners.
 
 ## Worked case
 
@@ -42,6 +54,8 @@ A vendor claims “NIST certified” for CampusAssist without identifying a sche
 ## Student studio instructions
 
 Submit **Authority matrix with corrected claim and primary citation**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Authority memo with three distinct source purposes and evidence owners. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

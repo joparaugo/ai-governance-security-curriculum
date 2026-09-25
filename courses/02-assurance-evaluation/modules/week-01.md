@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain assurance claims and evidence, apply it to the CampusAssist case, and defend the evidence in **assurance claim table with owner and limitations**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
 - [ISO25059: ISO/IEC 25059:2023, Quality model for AI systems](https://www.iso.org/standard/80655.html) — Specify quality requirements
 - [ARIA: Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria) — Model, red-team and field levels
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_IC: Internal Control—Integrated Framework](https://www.coso.org/internal-control) — Design control ownership, evidence and monitoring for AI-related objectives.
+- [NIST_53A: SP 800-53A Rev. 5, Assessing Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final) — Specify examination, interview or test and document evidence limitations.
+- [SOC2: SOC 2 and Trust Services Criteria resources](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) — Read report period, service boundary, criteria, exceptions and user controls; never infer model assurance.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Separate verification of a stated requirement from validation of usefulness in d
 ### 3. Operational test and owner
 
 Map each claim to an independent reviewer and a known limitation. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Take the vendor's 'secure and unbiased' sentence. Separate the assertion into hosting security, model fairness and service availability; specify criteria, a test method, evidence and limits for each. A SOC 2 scope does not establish model fairness.
+
+**Observable evidence:** Claims-to-evidence table with three bounded assurance claims.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ Vendor reports 92% historical accuracy, without a test population description. *
 ## Student studio instructions
 
 Submit **Assurance claim table with owner and limitations**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Claims-to-evidence table with three bounded assurance claims. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

@@ -37,6 +37,13 @@ Vendor refuses evaluation access and permits unilateral model updates.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Issue separate CAIQ cloud and AI-CAIQ AI questions. Evaluate STAR/STAR for AI declarations, any SOC 2 scope and the vendor's model-update rights. Mark unanswered items; assign provider/customer ownership and a contractual remedy.
+- **Deliver:** Supplier assurance grid with claims, scope, period, exceptions, owners and decision.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Negotiate a redlined contract term sheet and assurance request.
@@ -51,6 +58,6 @@ Negotiate a redlined contract term sheet and assurance request.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** AICM, SSDF_AI, ISO27001
+**Reading anchors:** CSA_CAIQ, CSA_AI_CAIQ, CSA_STAR, CSA_STAR_AI, NIST_SCRM, ISO27017, ISO27018, SOC2, AICM, SSDF_AI, ISO27001
 
 <!-- Speaker: Collect a 100-word individual defense. -->

@@ -2,13 +2,18 @@
 
 **Learning target.** By the end, a learner can explain board simulation and integrated capstone, apply it to the CampusAssist case, and defend the evidence in **final integrated governance program portfolio**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
 - [ISO19011: ISO 19011:2026, Auditing management systems](https://www.iso.org/standard/19011) — Audit evidence and independence
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_BOARD: Corporate Governance: Guiding Principles for Board Oversight](https://www.coso.org/corporate-governance-guiding-principles) — Define board oversight, reporting and escalation for AI portfolio decisions.
+- [IIA_THREE: The IIA Three Lines Model](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) — Assign management, risk/compliance, independent assurance and board roles.
 
 ## Teach the concepts
 
@@ -23,6 +28,12 @@ Make a conditional decision with owner, time-bound actions and stop criteria. As
 ### 3. Operational test and owner
 
 Create a six-month improvement backlog and independent review date. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Run the board vote with first- and second-line positions, independent audit caveat, affected-student perspective and explicit stop condition.
+
+**Observable evidence:** Board decision record with dissent, assurance boundary and revisit date.
 
 ## Worked case
 
@@ -41,6 +52,8 @@ The university board votes on scaling CampusAssist to all campuses. **Instructor
 ## Student studio instructions
 
 Submit **Final integrated governance program portfolio**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Board decision record with dissent, assurance boundary and revisit date. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

@@ -37,6 +37,12 @@ The “missed support” label comes from advisor notes written inconsistently.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Additional source application
+
+- Draft a minimal model/data/software dependency record and explain how a changed dataset or package would be traced to a specific evaluation version.
+- **Evidence:** AI component provenance and impact row.
+
+---
 ## Studio: produce an artifact
 
 Create a dataset card and find three provenance gaps.
@@ -51,6 +57,6 @@ Create a dataset card and find three provenance gaps.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO5259, ISO5259_2, ISO5259_4, ISO5338, PRIV
+**Reading anchors:** SPDX_AI, ISO5259, ISO5259_2, ISO5259_4, ISO5338, PRIV
 
 <!-- Speaker: Collect a 100-word individual defense. -->

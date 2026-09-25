@@ -37,6 +37,13 @@ A supplier advertises “ISO 42001 certified AI model.”
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Compare a SOC 2 report on hosting, a STAR for AI listing and an ISO/IEC 42001 management-system certificate by boundary, period, criteria and assessor. Identify AI model quality and rights claims outside those scopes.
+- **Deliver:** Evidence-bounded assurance statement and two unresolved claims.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Rewrite four assurance claims and a public disclosure.
@@ -51,6 +58,6 @@ Rewrite four assurance claims and a public disclosure.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO42006, ISO42001, AISVS
+**Reading anchors:** SOC2, CSA_STAR_AI, NIST_53A, ISO42006, ISO42001, AISVS
 
 <!-- Speaker: Collect a 100-word individual defense. -->

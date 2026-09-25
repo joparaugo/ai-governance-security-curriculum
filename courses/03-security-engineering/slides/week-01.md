@@ -37,6 +37,13 @@ CampusAssist has an external model API, internal record store and email tool.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Draw four boundaries: campus tenant, cloud service, hosted model and user-facing AI app. Identify one cloud control, its customer/provider owner, an implementation-group-appropriate safeguard, and the log that could test operation.
+- **Deliver:** Shared-responsibility diagram and evidence request.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Draw data and control flows; mark three trust boundaries.
@@ -51,6 +58,6 @@ Draw data and control flows; mark three trust boundaries.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO23053, SSDF_AI, CSF
+**Reading anchors:** CSA_CCM, ISO27017, CIS_CONTROLS, ISO23053, SSDF_AI, CSF
 
 <!-- Speaker: Collect a 100-word individual defense. -->

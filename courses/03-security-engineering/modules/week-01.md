@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain ai architecture and assets, apply it to the CampusAssist case, and defend the evidence in **architecture diagram and asset inventory**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO23053: ISO/IEC 23053:2022, ML AI system framework](https://www.iso.org/standard/74438.html) — System component boundaries
 - [SSDF_AI: SP 800-218A, Secure Development Practices for Generative AI and Dual-Use Foundation Models](https://csrc.nist.gov/pubs/sp/800/218/a/final) — AI-specific SSDF profile
 - [CSF: Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Govern plus Identify, Protect, Detect, Respond, Recover
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [CSA_CCM: Cloud Controls Matrix (CCM) v4.1](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1) — Cloud controls and shared responsibility; 207 controls across 17 domains.
+- [ISO27017: ISO/IEC 27017:2026, Cloud Security Controls](https://www.iso.org/standard/27017) — Cloud service provider and customer controls.
+- [CIS_CONTROLS: CIS Critical Security Controls v8.1](https://www.cisecurity.org/controls/v8-1) — Select a small feasible baseline for identity, inventory, logging and recovery.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Identify trust boundaries and privileged actions before cataloging vulnerabiliti
 ### 3. Operational test and owner
 
 Separate model safety behavior from infrastructure confidentiality and availability. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Draw four boundaries: campus tenant, cloud service, hosted model and user-facing AI app. Identify one cloud control, its customer/provider owner, an implementation-group-appropriate safeguard, and the log that could test operation.
+
+**Observable evidence:** Shared-responsibility diagram and evidence request.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ CampusAssist has an external model API, internal record store and email tool. **
 ## Student studio instructions
 
 Submit **Architecture diagram and asset inventory**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Shared-responsibility diagram and evidence request. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

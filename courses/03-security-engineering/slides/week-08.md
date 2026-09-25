@@ -37,6 +37,19 @@ The vendor silently swaps the model after an audit.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Trace model weights, training data, package dependency, retrieval feed and vendor API to their origin and update mechanism. Document verification, change notice, rollback and ownership.
+- **Deliver:** Supply-chain lineage row and change-control decision.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
+## Additional source application
+
+- Request software build provenance for the agent app and an SPDX-style AI component record for model, dataset and dependencies; trace a changed package to its release decision.
+- **Evidence:** Supplier provenance request and rollback evidence.
+
+---
 ## Studio: produce an artifact
 
 Build an SBOM-like inventory and provenance checklist.
@@ -51,6 +64,6 @@ Build an SBOM-like inventory and provenance checklist.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** SSDF, SSDF_AI, ISO27001
+**Reading anchors:** SLSA, NIST_SCRM, NCSC_SECUREAI, SSDF, SSDF_AI, ISO27001
 
 <!-- Speaker: Collect a 100-word individual defense. -->

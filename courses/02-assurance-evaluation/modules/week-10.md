@@ -2,13 +2,17 @@
 
 **Learning target.** By the end, a learner can explain documentation and transparency, apply it to the CampusAssist case, and defend the evidence in **system card and disclosure plan**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
 - [ISO5338: ISO/IEC 5338:2023, AI system life cycle processes](https://www.iso.org/standard/81118.html) — Lifecycle artifacts and transitions
 - [ISO42005: ISO/IEC 42005:2025, AI system impact assessment](https://www.iso.org/standard/42005) — People and societal impacts
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [SOC2: SOC 2 and Trust Services Criteria resources](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) — Read report period, service boundary, criteria, exceptions and user controls; never infer model assurance.
 
 ## Teach the concepts
 
@@ -23,6 +27,12 @@ Document change control and known limitations in language deployers can use. Ask
 ### 3. Operational test and owner
 
 Separate external transparency from internal confidential threat details. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Examine the invented claim that hosting has a SOC 2 Type 2 report. Ask for report period, system boundary, exceptions and complementary user entity controls, then identify two model behavior questions the report cannot answer.
+
+**Observable evidence:** Scoped assurance statement and unresolved-evidence list.
 
 ## Worked case
 
@@ -41,6 +51,8 @@ Vendor marketing says “unbiased” despite a limited test cohort. **Instructor
 ## Student studio instructions
 
 Submit **System card and disclosure plan**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Scoped assurance statement and unresolved-evidence list. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

@@ -37,6 +37,13 @@ A review panel receives a polished deck but cannot inspect original test IDs.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Select one control for examination and one for a local negative test. Define test population and sampling, record deviation and limitations, and assign review outside the control owner's approval path.
+- **Deliver:** Independent review letter with tests and exceptions.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Conduct a peer audit of another team’s dossier.
@@ -51,6 +58,6 @@ Conduct a peer audit of another team’s dossier.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO19011, RMF, EVAL_STATS
+**Reading anchors:** NIST_53A, IIA_AUDIT, ISO19011, RMF, EVAL_STATS
 
 <!-- Speaker: Collect a 100-word individual defense. -->

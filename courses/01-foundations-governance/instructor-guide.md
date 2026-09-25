@@ -25,3 +25,7 @@ Week 3: case scope and thesis; Week 6: evidence baseline; Week 9: peer challenge
 ## Topic sensitivities
 
 Use fictional students, no real institutional records. Legal exercises are issue-spotting, not professional legal advice. For a paywalled ISO standard, teach the publisher overview and free NIST/OWASP equivalents, and label any crosswalk as the instructors' interpretation. See [source status](../../shared/resources.md).
+
+## Added governance sequence
+
+In week 3 distinguish voluntary AI framework outcomes, COSO internal control and COBIT technology decision rights. In week 4 use the IIA Three Lines model to prevent an internal auditor from approving the control it later reviews. In week 6 connect COSO risk appetite to one NIST SP 800-30 uncertainty statement. In week 10 test a GenAI email-tool control; the week 12 board decision must include the [board risk brief](../../templates/board-risk-brief.md) and an independent challenge. Use the free official source overviews in each module.

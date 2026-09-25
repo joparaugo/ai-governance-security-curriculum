@@ -2,13 +2,17 @@
 
 **Learning target.** By the end, a learner can explain incident, crisis and communication, apply it to the CampusAssist case, and defend the evidence in **communications plan and incident decision log**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [IR: SP 800-61 Rev. 3, Incident Response Recommendations](https://csrc.nist.gov/pubs/sp/800/61/r3/final) — Incident response integrated with CSF 2.0
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [CSF: Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Govern plus Identify, Protect, Detect, Respond, Recover
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_GENAI: Achieving Effective Internal Control Over Generative AI](https://www.coso.org/generative-ai) — Build objective-risk-control-evidence narratives for GenAI operations.
 
 ## Teach the concepts
 
@@ -23,6 +27,12 @@ Prepare a decision log, regulatory questions, stakeholder communication and corr
 ### 3. Operational test and owner
 
 Practice stopping an unsafe deployment while preserving evidence. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Map the alleged prompt-injection incident to a control owner, escalation threshold and report to senior management or board. Distinguish a denied action from confirmed data exfiltration.
+
+**Observable evidence:** Crisis reporting note with uncertainty and next test.
 
 ## Worked case
 
@@ -41,6 +51,8 @@ A student advocacy group reports disproportionate missed outreach after launch. 
 ## Student studio instructions
 
 Submit **Communications plan and incident decision log**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Crisis reporting note with uncertainty and next test. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

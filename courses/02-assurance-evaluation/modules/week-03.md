@@ -12,6 +12,8 @@
 - [ISO5338: ISO/IEC 5338:2023, AI system life cycle processes](https://www.iso.org/standard/81118.html) — Lifecycle artifacts and transitions
 - [PRIV: Privacy Framework 1.0](https://www.nist.gov/privacy-framework) — Do not label 1.1 final until NIST does
 
+- [SPDX_AI: SPDX AI profile and AI bill of materials](https://spdx.dev/learn/areas-of-interest/ai/) — Trace model, dataset and software component dependencies; do not conflate SPDX 3.x with ISO/IEC 5962:2021.
+
 ## Teach the concepts
 
 ### 1. Concept, decision and evidence
@@ -25,6 +27,12 @@ Analyze representativeness and construct validity, not just duplicate and null c
 ### 3. Operational test and owner
 
 Set retention and access rules for data and training artifacts. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Additional official source exercise
+
+Draft a minimal model/data/software dependency record and explain how a changed dataset or package would be traced to a specific evaluation version.
+
+**Observable evidence:** AI component provenance and impact row.
 
 ## Worked case
 
@@ -43,6 +51,8 @@ The “missed support” label comes from advisor notes written inconsistently. 
 ## Student studio instructions
 
 Submit **Dataset card and quality remediation list**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Additional source check.** AI component provenance and impact row. Explain why the source does or does not fit the CampusAssist system and cite its official page.
 
 ## 75-minute supervised extension
 

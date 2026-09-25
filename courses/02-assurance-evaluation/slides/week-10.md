@@ -37,6 +37,13 @@ Vendor marketing says “unbiased” despite a limited test cohort.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Examine the invented claim that hosting has a SOC 2 Type 2 report. Ask for report period, system boundary, exceptions and complementary user entity controls, then identify two model behavior questions the report cannot answer.
+- **Deliver:** Scoped assurance statement and unresolved-evidence list.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Edit a model/system card and annotate overclaims.
@@ -51,6 +58,6 @@ Edit a model/system card and annotate overclaims.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** RMF, ISO5338, ISO42005
+**Reading anchors:** SOC2, RMF, ISO5338, ISO42005
 
 <!-- Speaker: Collect a 100-word individual defense. -->

@@ -37,6 +37,13 @@ CampusAssist is one of 16 unregistered departmental AI uses.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Turn strategic objectives into AI risk appetite and a board reporting threshold. Distinguish board oversight from program management, and choose one leading metric and one decision that metric informs.
+- **Deliver:** Strategy/risk/decision brief for the board.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Prioritize a 90-day program rollout using an impact/effort matrix.
@@ -51,6 +58,6 @@ Prioritize a 90-day program rollout using an impact/effort matrix.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** ISO42001, ISO38507, RMF
+**Reading anchors:** COSO_ERM, COSO_BOARD, COBIT, ISO42001, ISO38507, RMF
 
 <!-- Speaker: Collect a 100-word individual defense. -->

@@ -11,6 +11,8 @@
 - [EU_TIMELINE: AI Act application timeline](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — Recheck before every teaching term
 - [OECD: OECD AI Principles](https://oecd.ai/en/ai-principles) — Public policy and accountability
 
+- [IMDA_AGENT: Model AI Governance Framework for Agentic AI](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2026/updated-model-ai-governance-framework-for-agentic-ai) — Clarify agent objectives, authorization, human oversight and accountability in a regional policy comparison.
+
 ## Teach the concepts
 
 ### 1. Concept, decision and evidence
@@ -24,6 +26,12 @@ Read the EU AI Act together with its 2026 amendment and current Commission timel
 ### 3. Operational test and owner
 
 Keep a jurisdiction/role/date worksheet instead of memorizing a static summary. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Additional official source exercise
+
+Compare a proposed agent tool’s autonomy and human approval with the EU and Singapore policy approaches; label the jurisdiction and legal status of each.
+
+**Observable evidence:** Jurisdiction and framework-status comparison.
 
 ## Worked case
 
@@ -42,6 +50,8 @@ CampusAssist is offered by a US vendor to an EU partner university. **Instructor
 ## Student studio instructions
 
 Submit **Jurisdiction memo with version-checked citations**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Additional source check.** Jurisdiction and framework-status comparison. Explain why the source does or does not fit the CampusAssist system and cite its official page.
 
 ## 75-minute supervised extension
 

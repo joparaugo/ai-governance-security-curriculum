@@ -2,13 +2,19 @@
 
 **Learning target.** By the end, a learner can explain assurance reporting and certification claims, apply it to the CampusAssist case, and defend the evidence in **assurance statement with claim-evidence scope table**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [ISO42006: ISO/IEC 42006:2025, AIMS certification bodies](https://www.iso.org/standard/42006) — Distinguish certification body requirements from organizational requirements
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [AISVS: Artificial Intelligence Security Verification Standard 1.0](https://owasp.org/projects/artificial-intelligence-security-verification-standard-aisvs-docs) — Select verifiable requirements by assurance level
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [SOC2: SOC 2 and Trust Services Criteria resources](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) — Read report period, service boundary, criteria, exceptions and user controls; never infer model assurance.
+- [CSA_STAR_AI: STAR for AI program](https://cloudsecurityalliance.org/star/ai) — Compare AI self-assessment with independent certification and its stated scope.
+- [NIST_53A: SP 800-53A Rev. 5, Assessing Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final) — Specify examination, interview or test and document evidence limitations.
 
 ## Teach the concepts
 
@@ -23,6 +29,12 @@ Calibrate claims to evidence, scope and date; qualify unknowns and remediation d
 ### 3. Operational test and owner
 
 Challenge misleading badges and redacted reports. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Compare a SOC 2 report on hosting, a STAR for AI listing and an ISO/IEC 42001 management-system certificate by boundary, period, criteria and assessor. Identify AI model quality and rights claims outside those scopes.
+
+**Observable evidence:** Evidence-bounded assurance statement and two unresolved claims.
 
 ## Worked case
 
@@ -41,6 +53,8 @@ A supplier advertises “ISO 42001 certified AI model.” **Instructor model:** 
 ## Student studio instructions
 
 Submit **Assurance statement with claim-evidence scope table**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Evidence-bounded assurance statement and two unresolved claims. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

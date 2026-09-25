@@ -50,6 +50,10 @@ Of 600 scored students, 100 are selected for weekly review. A prior offline eval
 | E-06 | Two student interview summaries object to opaque alerts. | Nonrepresentative feedback, yet relevant to design. |
 | E-07 | Security team lists “prompt filter enabled.” | No bypass test or tool-action authorization check. |
 | E-08 | A synthetic incident ticket records 14 denied outbound email attempts. | Root cause and any successful sends still under investigation. |
+| E-09 | Northstar marks “yes” on a cloud CAIQ excerpt and provides an old architecture diagram. | Control operation, date and division of customer/provider duties are unverified. |
+| E-10 | A sales slide claims “SOC 2 Type 2 and STAR compliant.” | No SOC 2 report, examination period, exceptions or current STAR record is in the packet. |
+| E-11 | An AI-CAIQ excerpt says model changes are logged. | No named approver, advance notice to HSU, immutable version record or regression results. |
+| E-12 | A synthetic alert sequence mentions a new service-token sign-in, page edit and denied emails. | Event correlation and exfiltration have not been established; logs have not been validated. |
 
 ## Decision constraints
 

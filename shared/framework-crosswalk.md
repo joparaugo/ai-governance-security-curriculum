@@ -18,6 +18,15 @@
 | Security incident response and monitoring | NIST SP 800-61r3, CSF 2.0, AI 800-4 | 2:11, 3:11, 4:09–10 | NIST final guidance and synthetic ticket |
 | Internal audit and certification boundaries | ISO 19011:2026; ISO/IEC 42006:2025; ISO/IEC 42001; IEEE 7001 transparency | 4:07–08 | Public publisher overviews + instructor evidence packet |
 | AI law, global policy and jurisdiction issues | EU AI Act as amended in 2026; GDPR; OECD; UNESCO; Council of Europe; IMDA | 1:11, 4:05–06, 4:11 | Official legal text and public guidance; check dates |
+| Enterprise strategy, risk appetite and board oversight | COSO ERM 2017, COSO AI 2021, COSO board guidance 2026; COBIT 2019 | 1:04, 1:06, 1:12, 4:01, 4:10, 4:12 | COSO/ISACA public overviews + board risk brief |
+| AI and GenAI internal control evidence | COSO Internal Control 2013, COSO GenAI 2026; NIST SP 800-53A | 1:10, 2:01, 3:10, 4:02–03, 4:09 | Objective → risk → control → owner → observed test in the fictional case |
+| Lines of accountability and independent audit | IIA Three Lines, Global Internal Audit Standards; COBIT 2019 | 1:04, 2:12, 4:07–08, 4:12 | Published Three Lines model + audit conflicts worksheet |
+| Cloud versus AI-specific supplier assurance | CSA CCM/CAIQ v4.1, STAR; AICM/AI-CAIQ v1.1, STAR for AI; ISO/IEC 27017:2026, 27018:2025; AICPA SOC 2 | 3:01, 3:12, 4:04, 4:08 | Publisher overviews + scope and period comparison; questionnaire is an assertion |
+| Enterprise/cloud adversary paths and defensive tests | MITRE Enterprise ATT&CK, cloud matrix, D3FEND; MITRE ATLAS | 3:02, 3:05, 3:11 | Paired attack tabletop, evidence status and telemetry request |
+| System security risk, supply chain and per-call authorization | NIST SP 800-37, 800-30, 800-161, 800-207; CIS Controls v8.1; OWASP API Top 10, NCSC secure AI guidance | 1:06, 3:01, 3:07–10, 4:02–04 | NIST/OWASP public texts + shared-responsibility and test cards |
+| Compliance program and obligation inventory | ISO 37301:2021; COSO ERM; EU AI Act and GDPR where applicable | 4:02, 4:05–06 | ISO overview + current legal texts and dated obligation register |
+| Regional agent governance and independent evaluation | Singapore IMDA Agentic AI 2026; AI Verify toolkit | 1:11, 2:08, 4:11 | Official free publications and traditional-model test case; label voluntary status |
+| Model/data/software and build provenance | SPDX 3.x AI profile; SLSA v1.2; NIST SP 800-161 | 2:03, 3:08, 4:04 | Component change trace and build provenance request; no automatic safety claim |
 
 ## Current-version alerts
 
@@ -25,3 +34,5 @@
 - NIST Privacy Framework **1.0** is the released baseline used here; **1.1 was an initial public draft** on the [NIST update page](https://www.nist.gov/privacy-framework/new-projects/privacy-framework-version-11) on 2026-09-25.
 - NIST AI RMF 1.0 is in revision; monitor [AI Resource Center](https://airc.nist.gov/). NIST AI 800-2 is identified as an **initial public draft**; AI 800-3 is a research report.
 - ISO/IEC 27701:2025 and ISO 19011:2026 replace older commonly cited editions. OWASP LLM Top 10 2026, Agentic Top 10 2026 and AISVS 1.0 are included.
+- CSA CCM and CAIQ v4.1, COSO 2026 GenAI/board resources and ISO/IEC 27017:2026 are in the [expanded catalog](resources.md); verify current CSA STAR submission format separately from a reference questionnaire. MITRE ATT&CK and ATLAS are living knowledge bases.
+- NIST AI RMF and NIST SP 800-37 system RMF are different frameworks; COSO internal control, COSO ERM, CSA questionnaires and SOC 2 serve different purposes. See the [coverage audit](coverage-audit.md).

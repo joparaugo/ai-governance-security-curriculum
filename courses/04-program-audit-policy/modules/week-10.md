@@ -2,13 +2,18 @@
 
 **Learning target.** By the end, a learner can explain metrics and management review, apply it to the CampusAssist case, and defend the evidence in **kpi dictionary and review agenda**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
 - [RMF: AI Risk Management Framework 1.0](https://airc.nist.gov/airmf-resources/airmf/) — Govern, Map, Measure, Manage; do not treat the Playbook as a mandatory checklist
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [MONITOR: AI 800-4, Challenges to the Monitoring of Deployed AI Systems](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf) — Postdeployment monitoring limitations
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [COSO_ERM: Enterprise Risk Management—Integrating with Strategy and Performance](https://www.coso.org/guidance-erm) — Connect strategic objectives, risk appetite, risk response and performance.
+- [COSO_IC: Internal Control—Integrated Framework](https://www.coso.org/internal-control) — Design control ownership, evidence and monitoring for AI-related objectives.
 
 ## Teach the concepts
 
@@ -23,6 +28,12 @@ Review thresholds, data quality, gaming risk and unintended effects. Ask which p
 ### 3. Operational test and owner
 
 Use management review to change resources, controls and strategic goals. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Tie overdue remediation and student appeal rates to strategic objectives and risk appetite; include source, denominator, owner and escalation threshold.
+
+**Observable evidence:** Management-review metric dictionary and action trigger.
 
 ## Worked case
 
@@ -41,6 +52,8 @@ The dashboard reports 100% training while unapproved AI use is growing. **Instru
 ## Student studio instructions
 
 Submit **KPI dictionary and review agenda**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Management-review metric dictionary and action trigger. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 

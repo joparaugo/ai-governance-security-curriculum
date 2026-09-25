@@ -37,6 +37,13 @@ The team lists “secure AI” as a control with no pass criterion.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Choose a cloud IAM/logging control and an AI tool boundary control. Specify criterion, evidence, examination or test and pass/fail, then explain why a mapping alone is not an effective-control finding.
+- **Deliver:** Two test cards with evidence ID and residual risk.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Turn five vague controls into pass/fail statements.
@@ -51,6 +58,6 @@ Turn five vague controls into pass/fail statements.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** AISVS, ASVS, SP53
+**Reading anchors:** CSA_CCM, NIST_53A, CIS_CONTROLS, AISVS, ASVS, SP53
 
 <!-- Speaker: Collect a 100-word individual defense. -->

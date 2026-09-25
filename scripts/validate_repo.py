@@ -14,6 +14,9 @@ def validate():
     ids=[r['id'] for r in catalog]
     if len(ids)<40 or len(ids)!=len(set(ids)):
         errors.append('resource IDs missing or duplicated')
+    required={'CSA_CCM','CSA_CAIQ','CSA_STAR','CSA_STAR_AI','ATLAS','MITRE_ATTACK','MITRE_D3FEND','COSO_IC','COSO_ERM','COSO_GENAI','COBIT','IIA_THREE','SOC2','NIST_53A','IMDA_AGENT','AI_VERIFY','SLSA','SPDX_AI'}
+    if required-set(ids):
+        errors.append(f'core governance/security source families missing: {sorted(required-set(ids))}')
     for r in catalog:
         if not r['url'].startswith('https://'):
             errors.append(f'non-HTTPS resource: {r["id"]}')
@@ -33,6 +36,11 @@ def validate():
             data=module.read_text(encoding='utf-8')
             if '## 150-minute lesson plan' not in data or '## Student studio instructions' not in data:
                 errors.append(f'incomplete lesson {module.relative_to(ROOT)}')
+    with (ROOT/'shared/competency-map.csv').open(encoding='utf-8') as f:
+        for outcome in csv.DictReader(f):
+            for source in outcome['source_ids'].split(';'):
+                if source not in ids:
+                    errors.append(f'unknown competency source ID {source}')
     for doc in ROOT.rglob('*.md'):
         if '.git' in doc.parts:continue
         data=doc.read_text(encoding='utf-8')

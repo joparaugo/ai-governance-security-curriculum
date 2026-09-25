@@ -37,6 +37,12 @@ A state considers requiring impact assessments for educational AI procurement.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Additional source application
+
+- Compare a Singapore agentic oversight proposal with OECD principles and the institution’s local decision rights; label each source’s authority and geographic reach.
+- **Evidence:** Comparative policy note on human oversight.
+
+---
 ## Studio: produce an artifact
 
 Stage stakeholder testimony and write a policy options memo.
@@ -51,6 +57,6 @@ Stage stakeholder testimony and write a policy options memo.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** OECD, UNESCO, IMDA, COE
+**Reading anchors:** IMDA_AGENT, OECD, UNESCO, IMDA, COE
 
 <!-- Speaker: Collect a 100-word individual defense. -->

@@ -37,6 +37,13 @@ The dashboard reports 100% training while unapproved AI use is growing.
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Tie overdue remediation and student appeal rates to strategic objectives and risk appetite; include source, denominator, owner and escalation threshold.
+- **Deliver:** Management-review metric dictionary and action trigger.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Critique metric incentives and draft an executive dashboard.
@@ -51,6 +58,6 @@ Critique metric incentives and draft an executive dashboard.
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** RMF, ISO42001, MONITOR
+**Reading anchors:** COSO_ERM, COSO_IC, RMF, ISO42001, MONITOR
 
 <!-- Speaker: Collect a 100-word individual defense. -->

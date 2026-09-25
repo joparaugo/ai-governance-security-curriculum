@@ -87,3 +87,7 @@ Use these as formative items or change facts for summative use. Suggested time: 
 - 10: Accept intended purpose, provider/deployer roles, whether access to education is determined, exemptions, location, versions and current law. Award 10 points for method, 10 for correct application, 5 for uncertainty and 5 for a cited anchor or case evidence.
 
 **Item analysis:** after class, record which distractors attracted learners and revise ambiguous wording. Never infer competence from these ten items alone; use applied artifacts and defense.
+
+## Supplementary source-application check (formative)
+
+**Prompt:** E-09 to E-11 show CAIQ and AI-CAIQ answers plus unverified STAR/SOC 2 marketing claims. Name one [cloud CAIQ](https://cloudsecurityalliance.org/artifacts/star-level-1-security-questionnaire-caiq-v4-1) question, one [AI-CAIQ](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1) question and one independent assurance fact to verify. **Key:** cloud IAM/log evidence versus model-change/AI control evidence; obtain actual period, system scope, criteria, status and exceptions for any STAR, STAR for AI or SOC 2 claim. A filled questionnaire alone is a self-assertion.

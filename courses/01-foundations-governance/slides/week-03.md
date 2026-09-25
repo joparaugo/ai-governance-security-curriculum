@@ -37,6 +37,13 @@ A vendor claims “NIST certified” for CampusAssist without identifying a sche
 
 <!-- Speaker: Ask who verifies this claim. -->
 ---
+## Source comparison and evidence
+
+- Build a three-column authority memo: COSO control structure, COSO enterprise risk decisions, and COBIT technology governance. For each source name a board question, an operational owner and one record to request; explain why none substitutes for law.
+- **Deliver:** Authority memo with three distinct source purposes and evidence owners.
+
+<!-- Speaker: Insist on claim boundaries and a testable evidence request. -->
+---
 ## Studio: produce an artifact
 
 Annotate six claims as law, voluntary guidance, standard, or unsupported marketing.
@@ -51,6 +58,6 @@ Annotate six claims as law, voluntary guidance, standard, or unsupported marketi
 - Which person or team is accountable?
 - Which evidence would justify a different decision?
 
-**Reading anchors:** RMF, ISO42001, CSF, EU_ACT
+**Reading anchors:** COSO_IC, COSO_ERM, COBIT, RMF, ISO42001, CSF, EU_ACT
 
 <!-- Speaker: Collect a 100-word individual defense. -->

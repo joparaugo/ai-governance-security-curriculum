@@ -2,7 +2,7 @@
 
 **Learning target.** By the end, a learner can explain framework crosswalk and control design, apply it to the CampusAssist case, and defend the evidence in **traceability matrix with explicit caveats**.
 
-**Before class (60–90 min).** Read the linked publisher overviews and the [case dossier](../../../shared/case-campusassist.md). Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
+**Before class (60–90 min).** Read the first three publisher overviews and the [case dossier](../../../shared/case-campusassist.md); skim additional comparison sources according to the studio task. Write two questions about the evidence you would need to approve the scenario. Required links are free; publisher pages for ISO standards are optional background.
 
 ## Reading and standards anchors
 
@@ -10,6 +10,12 @@
 - [ISO42001: ISO/IEC 42001:2023, AI management system](https://www.iso.org/standard/81230.html) — Teach original AIMS processes; do not reproduce clauses
 - [CSF: Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Govern plus Identify, Protect, Detect, Respond, Recover
 - [SP53: SP 800-53 Rev. 5, Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) — Tailor controls; no automatic AI compliance claim
+
+**Additional publisher references:** skim the links relevant to this week’s studio; use free overviews where complete standards require purchase.
+
+- [CSA_CCM: Cloud Controls Matrix (CCM) v4.1](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1) — Cloud controls and shared responsibility; 207 controls across 17 domains.
+- [COSO_IC: Internal Control—Integrated Framework](https://www.coso.org/internal-control) — Design control ownership, evidence and monitoring for AI-related objectives.
+- [NIST_53A: SP 800-53A Rev. 5, Assessing Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final) — Specify examination, interview or test and document evidence limitations.
 
 ## Teach the concepts
 
@@ -24,6 +30,12 @@ Record non-equivalence when two controls differ in actor, timing or evidence. As
 ### 3. Operational test and owner
 
 Mark each map as interpretation, not certification or legal conclusion. Convert the concept into a test or review action with an owner, deadline and observable pass/fail or decision criterion.
+
+### Applied comparison: new governance and security sources
+
+Translate a cloud security objective into a CSA control area, a COSO objective-risk-control chain and a NIST-style assessment procedure. Mark each connection as teaching interpretation; demand observed evidence.
+
+**Observable evidence:** Crosswalk row with criterion, evidence and test.
 
 ## Worked case
 
@@ -42,6 +54,8 @@ Risk of erroneous outreach spans risk, privacy, human oversight and security tea
 ## Student studio instructions
 
 Submit **Traceability matrix with explicit caveats**. Include a purpose and scope statement; a small table of claims, evidence, owners and limitations; at least one affected-person perspective; and a test or review date. Where numbers are used, show the denominator. Where the question is legal, label jurisdiction and effective date. Cite at least two reading links from above. The case is fictional; do not use real student information.
+
+**Source-application check.** Crosswalk row with criterion, evidence and test. Cite the relevant primary publisher pages above, specify source scope and status, and do not claim that a questionnaire answer or technique label proves effectiveness.
 
 ## 75-minute supervised extension
 
